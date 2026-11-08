@@ -1,5 +1,7 @@
 # VinAssess
 
+**Demo:** [vinas.sunstudy.app](https://vinas.sunstudy.app/) · [Đăng nhập](https://vinas.sunstudy.app/login) — dùng dữ liệu mẫu.
+
 Nền tảng kiểm tra và ôn tập cho THCS, THPT. Lát cắt hiện tại: **giáo viên chuẩn bị đề có căn cứ → duyệt/chốt → giao phòng thi → học sinh làm bài → giáo viên chọn nội dung cần ôn từ kết quả**.
 
 Dự án của **EdTech AI Builders L3B**. Mục tiêu đề xuất: 2 tuần MVP, 4 tuần thử với người dùng thật. [Kế hoạch 6 tuần](docs/team/six-week-plan.md) là bản để team duyệt, không phải deadline chính thức của chương trình.
