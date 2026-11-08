@@ -14,6 +14,8 @@ Dự án của **EdTech AI Builders L3B**. Mục tiêu đề xuất: 2 tuần MV
 | Prisma/TiDB | Schema/client và công cụ cấu hình riêng; không tự áp dụng schema |
 | Funnel/cohort, pain và impact người dùng thật | Có kế hoạch/biểu mẫu; chưa có số liệu xác minh |
 
+**Demo giao diện:** https://vinas.sunstudy.app/ · [Đăng nhập demo](https://vinas.sunstudy.app/login). Dữ liệu tổng hợp, chưa kết nối LLM. [Cấu hình và vận hành demo](docs/operations/vinassess-demo.md).
+
 ## Chạy trong vài phút
 
 Cần **Python ≥3.9 có SQLite FTS5** (khuyến nghị 3.12). Chạy demo không cần cài thư viện Python hoặc cấu hình AI/DB ngoài.

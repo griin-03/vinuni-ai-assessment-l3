@@ -1,0 +1,41 @@
+[Unit]
+Description=VinAssess interface demo (isolated SQLite data)
+After=network.target
+StartLimitIntervalSec=60
+StartLimitBurst=5
+
+[Service]
+Type=simple
+User=vinassess
+Group=vinassess
+WorkingDirectory=/opt/vinassess/current
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONDONTWRITEBYTECODE=1
+Environment=VINASSESS_DEMO=1
+Environment=VINASSESS_DB=/var/lib/vinassess/demo.sqlite3
+Environment=VINASSESS_COOKIE_SECURE=1
+ExecStart=/usr/bin/python3 /opt/vinassess/current/scripts/serve.py --host 127.0.0.1 --port 4175
+Restart=on-failure
+RestartSec=3
+TimeoutStopSec=15
+UMask=0077
+StateDirectory=vinassess
+StateDirectoryMode=0700
+NoNewPrivileges=true
+PrivateTmp=true
+PrivateDevices=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+LockPersonality=true
+CapabilityBoundingSet=
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+MemoryMax=512M
+CPUQuota=100%
+TasksMax=128
+
+[Install]
+WantedBy=multi-user.target

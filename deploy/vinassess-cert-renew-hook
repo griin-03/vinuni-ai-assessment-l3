@@ -1,0 +1,7 @@
+#!/bin/sh
+# Installed as a dedicated Certbot deploy hook; ignore certificates of other apps.
+set -eu
+if [ "${RENEWED_LINEAGE:-}" = /etc/letsencrypt/live/vinas.sunstudy.app ]; then
+    /usr/sbin/nginx -t
+    /usr/bin/systemctl reload nginx
+fi

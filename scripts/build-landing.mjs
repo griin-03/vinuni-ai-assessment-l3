@@ -6,6 +6,9 @@ import {oceanColors} from './ocean-palette.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const original=path.join(root,'vendor/landing-baseline');
+const siteURL=new URL(process.env.VINASSESS_SITE_URL||'http://127.0.0.1:4173');
+if(!['http:','https:'].includes(siteURL.protocol)||siteURL.username||siteURL.password)throw new Error('VINASSESS_SITE_URL must be an HTTP(S) origin without credentials.');
+const siteOrigin=siteURL.origin;
 const content=JSON.parse(fs.readFileSync(path.join(root,'content/vinassess.vi.json'),'utf8'));
 const assets={
   '/_next/static/media/fervid-logo-white-brand.2j1fe5p7zmdh0.png':'/assets/brand/vinassess-logo-light.svg',
@@ -21,7 +24,7 @@ const assets={
   '/images/covers/banners/ielts.webp':'/assets/illustrations/skills.svg',
   '/images/covers/banners/sat.webp':'/assets/illustrations/compliance.svg',
   '/uploads/website_ui/5fd605aec997078639ad3d790edf30c1.mp4':'#solutions',
-  'https://fervid.vn/og-home.png':'http://127.0.0.1:4173/assets/illustrations/training-overview.svg',
+  'https://fervid.vn/og-home.png':`${siteOrigin}/assets/illustrations/training-overview.svg`,
 };
 const blogImages=['1792435805_2566d3a0','1792435719_83dff24a','1792435639_4776ffc4','1792435559_23cd95f5','1792435293_429ebc97','1792435216_bbee0761'];
 blogImages.forEach((id,i)=>{
@@ -52,7 +55,7 @@ function translate(value){
   result=result.replace(/\b\d[\d.,]*\+? (?:câu|đề) trong kho/g,'Nội dung minh họa');
   result=result.replace(/DIGITAL SAT|Digital SAT/g,'Luyện tập THPT');
   if(result==='mailto:admin@fervid.vn'||result==='mailto:Trao đổi về nhu cầu kiểm tra')return '#home-cta-title';
-  if(result==='https://fervid.vn'||result==='https://fervid.vn/')return 'http://127.0.0.1:4173/';
+  if(result==='https://fervid.vn'||result==='https://fervid.vn/')return `${siteOrigin}/`;
   if(/^(?:https?:\/\/)?(?:www\.)?(?:facebook\.com|tiktok\.com|zalo\.me|online\.gov\.vn|giaoduc\.net\.vn|pmc\.ncbi\.nlm\.nih\.gov|tuoitre\.vn)/.test(result))return '#home-cta-title';
   const routes={
     '/login':'/login','/register':'/workspace','/high-school-exams':'#solutions','/high-school-exams/practice':'#solutions',
@@ -75,7 +78,7 @@ function translateData(value){
   }
   if(Array.isArray(value))return value.map(translateData);
   if(value?.['@type']==='Organization')return {'@context':'https://schema.org','@type':'Organization',name:'VinAssess',description:'Nền tảng kiểm tra & ôn tập dành cho học sinh THCS, THPT.'};
-  if(value?.['@type']==='WebSite')return {'@context':'https://schema.org','@type':'WebSite',name:'VinAssess',url:'http://127.0.0.1:4173/'};
+  if(value?.['@type']==='WebSite')return {'@context':'https://schema.org','@type':'WebSite',name:'VinAssess',url:`${siteOrigin}/`};
   if(value&&typeof value==='object')return Object.fromEntries(Object.entries(value).map(([key,item])=>[key,translateData(item)]));
   return value;
 }
