@@ -1,0 +1,3144 @@
+{
+  "schema_version": 1,
+  "source": "https://fervid.vn/",
+  "captured_at": "2026-11-02T08:19:38.214439+00:00",
+  "html_sha256": "f95bcbc7257b2ef6dbc7c733976cabfc15019359fa0226232342d7240d247d6b",
+  "assets": {
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1080&q=75",
+      "path": "_mirror/optimized/142aa2b33a51f6f1519194b8b82ecb2aef9b90b03a49dcf0b1eafe5e480b0b5c.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1200&q=75",
+      "path": "_mirror/optimized/f441d663792a62fc3b9100ad9b9da6576220940ec607105f5d4b769d22f44aed.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=128&q=75",
+      "path": "_mirror/optimized/72e73ea42b4baec1c78bbce45d1bc29a89643581d73996cff0b49b76fc566234.bin",
+      "bytes": 5130,
+      "sha256": "29216ab7c2ebd98cae5d2d3881f29fbc93c4ee10d128ad67ab5abf1b99e1afd7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=1920&q=75",
+      "path": "_mirror/optimized/c9ee8955e988801815e4e83c054174310e184940adc0fa1eca907a5430f8d510.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=2048&q=75",
+      "path": "_mirror/optimized/e575ce7e8ec5663aa80723387de893a63682d64af22bb8608a2ca23803d74d56.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=256&q=75",
+      "path": "_mirror/optimized/cd355bc9e632c7fe8c164476e92162b088ec3b8f0b726587eb597d482bfa7654.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=32&q=75",
+      "path": "_mirror/optimized/ff399953e79eb2320f25d38881e5d12a36a8355da81ea700ce008ed9a19fc0ef.bin",
+      "bytes": 910,
+      "sha256": "8cfb20adaeaf9b9169ac53c137427550d497ac70f34987092b7802e50edfdc6d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=384&q=75",
+      "path": "_mirror/optimized/79044eee05d8bb832850668a0a09fd271271b5f721f33bca6acf367cafdea850.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=3840&q=75",
+      "path": "_mirror/optimized/19fd0f8190f9dc261a9f8377647bb7bf069c091444e8cabdd451033d71f97c30.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=48&q=75",
+      "path": "_mirror/optimized/bc7643cebf728b42c44a9b1982de65acae8d4e7c7b7e0ddd3fa19344aa981993.bin",
+      "bytes": 1516,
+      "sha256": "0393e3a145fcadea1515cf0dea415d1c13d1a51d33ea9668b77bf2e2fe6ed2fc",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=64&q=75",
+      "path": "_mirror/optimized/24868ede998d057ebc7ac8aadff7e7b517548bf190ffe00a3c8811c715ef6523.bin",
+      "bytes": 2160,
+      "sha256": "8d6e6c0bdfcdb86396e83d3ceaca2ab491a8cb85f98320ecedf339151bc0cc6f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=640&q=75",
+      "path": "_mirror/optimized/d6d2e7b58f87e33567854378adc96ac4fca1a922fb304aa25c55f04ebdb7aa41.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=750&q=75",
+      "path": "_mirror/optimized/712eef5fa85460eb9d674386ed8759d15e08513d76a99ab5e89d6f291a4da723.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=828&q=75",
+      "path": "_mirror/optimized/b405d90be6abd9764b2a6b1085ed71d2282f65d75f5360c6d4b4b2cb1daba8c8.bin",
+      "bytes": 7346,
+      "sha256": "3c15418fdc2e7690cd2aa67446d7266e62a4df9e5648c301870fce52cedb759c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.3p-uxtzgziwy5.png&w=96&q=75",
+      "path": "_mirror/optimized/f62603be20262e3fcc7328647f4ae26dd77271a29d5de9811cca268ecefe5ce1.bin",
+      "bytes": 3680,
+      "sha256": "f541afa0ad541a687c055f9e465eb8900aa8d0976a96e79253f05f21331b3092",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1080&q=75",
+      "path": "_mirror/optimized/5295d4e051323096833c6b8ceaf2849b7dfd0c2cd39e1ccf77a0151ec68f8d43.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1200&q=75",
+      "path": "_mirror/optimized/072260fcf0e336c56b76ae19f163f0bb26691b4059b2dce62c51b43725c7c394.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=128&q=75",
+      "path": "_mirror/optimized/05d83395913ffaa5a73ba01655a9deb1063408a4db7a2e19fc87222d91bed736.bin",
+      "bytes": 5002,
+      "sha256": "779c82b32350a451736e9ffc4fda925a44db02368b7c4315259bdb3b03d8a21a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=1920&q=75",
+      "path": "_mirror/optimized/ef4b0e6b375bfcdbd9180cb67f05ce71f981963a74bd8d0176b70c353bc402de.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=2048&q=75",
+      "path": "_mirror/optimized/3277a8c02b7ad4cba60ac1f72ab96f32410ff09f09a4d9cc2832da3d01dc308c.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=256&q=75",
+      "path": "_mirror/optimized/059de45dfff80d1817ebeea6be96630fcd657a365ed9051cd3c09e39246aebda.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=32&q=75",
+      "path": "_mirror/optimized/65159d64fbc36dbc078a7362d9caf9047604a94462ee18068582c583a37f57d1.bin",
+      "bytes": 878,
+      "sha256": "ac4023c1b8108ee3a46873099f51841f852fff4f3fe061415f9a220694e5ff60",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=384&q=75",
+      "path": "_mirror/optimized/0a7cf42cd323809fe6856abcbb84ae2e81425a493045986dc3d5cc71e1e17c58.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=3840&q=75",
+      "path": "_mirror/optimized/922d95c09bef3ad65dab5b4c197e0d41056da78dc63b6ebf2cedce0f18cc01c6.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=48&q=75",
+      "path": "_mirror/optimized/c2decab02057fcf9720af99714d81726200bff4768d691792901952674476c5b.bin",
+      "bytes": 1496,
+      "sha256": "c9e06eb3e29796a0af5c86ee35c95025d2af7d7424819bca0b1a4ec76f23868e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=64&q=75",
+      "path": "_mirror/optimized/4d8625c48ed3218183703fe631425df6fb7edc3b657da2c3dcf52035cffdd365.bin",
+      "bytes": 2064,
+      "sha256": "16abfcc11c294773bbf29287301fa898d62710e9663de12e30fd7c3e3dd861a0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=640&q=75",
+      "path": "_mirror/optimized/31431df08bae5a33c6ed3307f18cefbef49840e21811674aefbb920629cfd07f.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=750&q=75",
+      "path": "_mirror/optimized/6e17ae6574a6569636dd33587d05dd2c95c734ec42020daaceb03ddae5600f26.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=828&q=75",
+      "path": "_mirror/optimized/ac127929b0418f9079e6569c93ae989a241331823daaf13bdc0b699283fb725f.bin",
+      "bytes": 7324,
+      "sha256": "96bac1aba48dff57e45f4d462d1382bf84c034d7d49f3f7b0cb8443fe5690b1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-10.0k1e8jaycg06r.png&w=96&q=75",
+      "path": "_mirror/optimized/318d56dc7b3560f681a31b1026adcb680f8615150e9d0623fe7898e64940f723.bin",
+      "bytes": 3588,
+      "sha256": "6686428abafeb0da7839296eb879dfed789eddb52b919b92037722b090dc6cf3",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1080&q=75",
+      "path": "_mirror/optimized/36f625a64cb70de3d85284214e06b22be5d1d2f8a549878b57619947d0d548a8.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1200&q=75",
+      "path": "_mirror/optimized/8a55edb32823ad62d89fda484b1f9e766577224c6700a1572d6ee4409d59a1ff.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=128&q=75",
+      "path": "_mirror/optimized/2b12fa069d164f3903fc2726198d882e47c6d19936be610a4d9117519d40bcc2.bin",
+      "bytes": 5398,
+      "sha256": "0aa35a1123dea81c1e76f220c9aa67e4caa29941fc0b0678a2daacfdb2fbdd52",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=1920&q=75",
+      "path": "_mirror/optimized/a0a5054310dac4d2f59c590ca9b1f6c7374becae724fab80784694c45eec4ce3.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=2048&q=75",
+      "path": "_mirror/optimized/4ad577f743ad9e4443f1f623fef8d4e33437344963050c4ac4e4ef21d947d5fc.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=256&q=75",
+      "path": "_mirror/optimized/d74e614416c7eb914692fc7ad217cbd910ad501e13ea4ae0502b1338628be817.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=32&q=75",
+      "path": "_mirror/optimized/bb24049ba661effc573cf532b557430704150a742d295af18c89d46eb5b0893d.bin",
+      "bytes": 976,
+      "sha256": "22efcb6b8a5f9af38c9d9ab183efc3e51ae42f9e65c8497dffc7416e0eacc9ba",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=384&q=75",
+      "path": "_mirror/optimized/d384a37c547ce3b9ad083246873d84fa0f1b055a71231334ecb42de93b3ec7ed.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=3840&q=75",
+      "path": "_mirror/optimized/ab5fb89581ea5e19cc83becbc7bda48fcc2184256e6149fbc6a1efdcd39cdb45.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=48&q=75",
+      "path": "_mirror/optimized/4330ee46fb8708e7cb43ae5254e81a49732a8bf3f625e3664bab3d2a33fcc65f.bin",
+      "bytes": 1640,
+      "sha256": "979ba904401b2f70a6811b05b4984d42995c99beb8b73f6628d700cbd96ecf7c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=64&q=75",
+      "path": "_mirror/optimized/aafe77f0d3033fad91ad2a952effc8d4ad6ecb342ed62a759fb3d40a6cf4ad1c.bin",
+      "bytes": 2256,
+      "sha256": "ab900fe6dd10890eb0b75e601741254e38c5d46267bd008992831313dc85ea4d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=640&q=75",
+      "path": "_mirror/optimized/3957f810e91a70c6433ad010e95a78ff6090e9f74521e6e5da3b3aac540faa79.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=750&q=75",
+      "path": "_mirror/optimized/aece4f5fb05af694126dc6cb05b7857853c0bdba55f401d3a67f91d822b2e10c.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=828&q=75",
+      "path": "_mirror/optimized/1c06d80bb14b0a88c28ecefdfa367c887c9c4491a6a86dbef58229526f695258.bin",
+      "bytes": 7608,
+      "sha256": "181ba9a9d9ab3288487832bc2dfc14bd5feab3536d5cd82caeab09741ecd28e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-2.1a5g7vtrypdzj.png&w=96&q=75",
+      "path": "_mirror/optimized/76e758432f55824f92979eadfaef9a6fccbeb48a7abc47d084cf328400d54444.bin",
+      "bytes": 3884,
+      "sha256": "6c91933750b33575542a1e7c9614efb04c026cc8280da5b73aa05ad30b049231",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1080&q=75",
+      "path": "_mirror/optimized/5b872c835d837ea8b7d0d7f0276bc6357cc67d1e5a759c25b015d140cac70214.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1200&q=75",
+      "path": "_mirror/optimized/a9da600df86c7323ad7c72698998db6bb77322632550bde52cca4987e7a911ce.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=128&q=75",
+      "path": "_mirror/optimized/5bad13ed8712b6cdfa0e651b587170f536ad174ee2e33e41966e7b249de04be8.bin",
+      "bytes": 5856,
+      "sha256": "7c81740d27d77468ff65ec97c4c905f57f2addc37cad452646e3704abe0701d2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=1920&q=75",
+      "path": "_mirror/optimized/25da2fa41b364b7e0d85709521971d275de66dc78103e3931b029109117b7475.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=2048&q=75",
+      "path": "_mirror/optimized/00771adc908bd107699ff31abb1c20ad7e01e84683895900d00e3cabfbb6a1c9.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=256&q=75",
+      "path": "_mirror/optimized/6ff6139e77c69b2198165ca0d151c5721a6d73cfa3b11335ced8127146ee74e3.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=32&q=75",
+      "path": "_mirror/optimized/ce14111c12600b5c31b39e854c20a6092cedd7537b11df716a7294a362891978.bin",
+      "bytes": 1028,
+      "sha256": "88f9b1c1190d3b5ac23fedba542bb836a128359859e2a293347785b6a7ab9aff",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=384&q=75",
+      "path": "_mirror/optimized/dc7aee348d3ee7bdf536573115ef608ff7a557c7c88f60da3f8bfd485c6e29c0.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=3840&q=75",
+      "path": "_mirror/optimized/3563cb6bbc22e65d0da6355b74aa8f52efcb40c51a2f39fd7146669a830b5f5d.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=48&q=75",
+      "path": "_mirror/optimized/2160d05e41373f5fbee3279fb3b394b9487bb32140d1c11ce6338640e0b7e928.bin",
+      "bytes": 1808,
+      "sha256": "e454e482304a8a8600b65d7efe10914be52a46d0b142db21cc6450c2e2867a75",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=64&q=75",
+      "path": "_mirror/optimized/16c3d7f66ad1693d554bb66c9140617246a450e9906313f14a0b5390b5a49583.bin",
+      "bytes": 2512,
+      "sha256": "b86332e9946bc5b01bb5b92f6b281e20b38fb724cfe69fd5912ad6236f9d30a1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=640&q=75",
+      "path": "_mirror/optimized/e4e8a8842018ac791ab9bdadd094be80cc09214b82a2cb39ba74e950f5e5cc62.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=750&q=75",
+      "path": "_mirror/optimized/ad846319bb7367cd0cf3d9c745348113b52750f2f8ea6d7053ec43ca567e839a.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=828&q=75",
+      "path": "_mirror/optimized/fa46dd7d5494516cf8f91c9c0b46b9ba66278d7fb9fe1a375fd8fc60ea505961.bin",
+      "bytes": 8734,
+      "sha256": "1a2d0618fdbdef2c0e4e5fe54e94daac67d60acf4e1fd915f2509122ab99aa8b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-3.2w0w7g213ujzz.png&w=96&q=75",
+      "path": "_mirror/optimized/ee74f0ad0967ad6397754001958f9c848b0a06c87772d1ccf3d6b0ddf94286fa.bin",
+      "bytes": 4204,
+      "sha256": "e7d30f6176247c453ed9957691ea5915291bd18fa22aefab21fcf85ab875032f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1080&q=75",
+      "path": "_mirror/optimized/f69edb3a6da5067c69b7108e5444034ed27b5a4d6fe4347ca3db89b0da52ac0f.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1200&q=75",
+      "path": "_mirror/optimized/dfc7cd9b7208a31c7736296008e9d91a197b9802ef9cdd44f30bfebd436c10cb.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=128&q=75",
+      "path": "_mirror/optimized/c3df483fc97386d98fdad70afab08d191d1342777de3978ffd136d181f5418a9.bin",
+      "bytes": 6068,
+      "sha256": "160905247844fc5c54c20c267cea03701aba58b718f758473bf92894bcc77283",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=1920&q=75",
+      "path": "_mirror/optimized/80e32b4f9082d82ca5bb160ec0ab3a74a1816a7d81ba1aa6b0eab5bbbeaef284.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=2048&q=75",
+      "path": "_mirror/optimized/c980ba6b3b0e79b3a4a2b6f3cc5cfcf3cc3cfd4bb036525a6e0c6dd93713c78f.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=256&q=75",
+      "path": "_mirror/optimized/80159ce77b040143b0c535efd9dc4ca4a580c044b661839b1ac657c9720cb8c3.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=32&q=75",
+      "path": "_mirror/optimized/9accc33da54dd6ce95f67fb374dae7f40fb49e24e7db1b2e102404254f53ae76.bin",
+      "bytes": 1044,
+      "sha256": "c14ed477816cf6c9a9f2aafa9c626ebc6da403c8dc608bc9c95f2a474f26a2d2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=384&q=75",
+      "path": "_mirror/optimized/b7d056edd37ccd7c31342e4971a30b0265d5514ce456529e7370995697f9daca.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=3840&q=75",
+      "path": "_mirror/optimized/3a940d329586f9dfedad4d54925754858d1ee624411a11ae7634578e644f1d72.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=48&q=75",
+      "path": "_mirror/optimized/790c4c2dd4388a10db0804699a3ea8156abc82dc7cb7d30806c444c37fc3867a.bin",
+      "bytes": 1782,
+      "sha256": "f7a403fda6f9ffc2fefe50c6c0a74a2ae75da834b7802faf8309385fd69f085c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=64&q=75",
+      "path": "_mirror/optimized/0819486f16bef2b81e30041848678fc0ba41fbe1a974d41a9030c96b12b66909.bin",
+      "bytes": 2546,
+      "sha256": "3581dfeb075f6c0e15cac4b141918ec149a1d6118df83fe3a398547d1d8ac077",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=640&q=75",
+      "path": "_mirror/optimized/19282efdf01e69cb044d54d5e6e9f8b40637ab8f63ceb3be32d776b8ff34edfa.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=750&q=75",
+      "path": "_mirror/optimized/deffd68d3d8bd75e453f0abdcd769b7c9806431d4eb2a7bf70105fc52d092527.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=828&q=75",
+      "path": "_mirror/optimized/65d017456757e5ca6d9016ff14999cdc5b381c8b97ded0610fe3448f5a1b416d.bin",
+      "bytes": 9388,
+      "sha256": "08a71d70e8358d2fbebd322c536db343e5803acddfb3f0cb3ea67bdd2557b737",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-4.0am5eyy0ofafg.png&w=96&q=75",
+      "path": "_mirror/optimized/849259fbad4256396a241009eafe63105a84c4bedd2d4a5d0c3ec86e5cec9132.bin",
+      "bytes": 4414,
+      "sha256": "a2fe3353d307967adaa590b2d940a215691419066a7c63b8ead357df4f34a7bc",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1080&q=75",
+      "path": "_mirror/optimized/b5e868bfdafb0f88d7460da93902eb28065d3f23265dc30088adea8a1b2a47af.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1200&q=75",
+      "path": "_mirror/optimized/10a4bbf9489b306c4c7cd49b694c5fa1fa1976814ef2c0ca64ef3eb20381eb16.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=128&q=75",
+      "path": "_mirror/optimized/0e691c540a05d40671d67b482fba9ecbd1004c04fab52362d1b1853e37efb306.bin",
+      "bytes": 6130,
+      "sha256": "d86debcd55c5a7c079ed366a6092cae7dda54f26a4326a6c3cc54e33d9ec3e68",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=1920&q=75",
+      "path": "_mirror/optimized/5bd30dc94f36f43ab416e81fc8eec89ac263518300ae3c05bd65a874dd65b879.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=2048&q=75",
+      "path": "_mirror/optimized/806e75eac224d1d975eb11bb18a416ab1302e0b620e4f1092de26dd8ac8c838e.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=256&q=75",
+      "path": "_mirror/optimized/3499883057fa236e1d3811b8d0c7b709b8b2e91cdfa41a6b093aded0fa8ecdcc.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=32&q=75",
+      "path": "_mirror/optimized/09dda2dfc44e601717a99ff0d0b550c31310346b6c61131d5539709d014095ee.bin",
+      "bytes": 1024,
+      "sha256": "2dac8e72a02bfde8ef462f745f437950d8b6947b65025722920196fcd106cc89",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=384&q=75",
+      "path": "_mirror/optimized/b9bbc7d3fd8e96639e4abe19c405983eec320dc7b7675d0273fedf9a70beb563.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=3840&q=75",
+      "path": "_mirror/optimized/d4cbab2091a77f7a1c4ed5db16eb2b796951bea64cd7e6a334923da526e0175a.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=48&q=75",
+      "path": "_mirror/optimized/81d65d84c9b31d0294c561c96f71b3ed361915cd0311ca9e7b1fbe8079cd763e.bin",
+      "bytes": 1838,
+      "sha256": "a10ddc8a5ab68c38e447841cf58cd5345ded4fa747a7b4c39ab118f016fbd640",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=64&q=75",
+      "path": "_mirror/optimized/7a18661684f86ac647f635f593b2caa4614f5dab5fc375ef1d75206d8bb8b202.bin",
+      "bytes": 2538,
+      "sha256": "9fd05507d31cb98506bf54f5b60a551bb91bfbf0069f0e341ec52a6fc67384e1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=640&q=75",
+      "path": "_mirror/optimized/d1689f1db3dd364e93d31744fbf3393bf86cde34846de7357b1ff69901d79c7e.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=750&q=75",
+      "path": "_mirror/optimized/2f1033e1510ad944fbd78640cad48ae5bfda1a173974c0ae5a88fd664986616e.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=828&q=75",
+      "path": "_mirror/optimized/e856bde0f935dd172ff6465a8d75b54db19429ccf218f94c98693da3914b3a5f.bin",
+      "bytes": 9034,
+      "sha256": "6b668601dd51c6f006fb89f32ef64eea92ac293f5f37a10388b295f82738841c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-5.3619fauw8phzr.png&w=96&q=75",
+      "path": "_mirror/optimized/80b207711824e4abe70a3c6a4a15269f7f27e4be450ecdf08c8e3af8f21bdf65.bin",
+      "bytes": 4434,
+      "sha256": "f10619db5fff617dab56b742c0ec9b5b6095be26f7174959aabb46579b698eb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1080&q=75",
+      "path": "_mirror/optimized/a77f2807a07b7ad9b51ca28341ef3b113a164fd7bf5aa6ff372dcb0898d91d1b.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1200&q=75",
+      "path": "_mirror/optimized/262296920013174433c26f6ddf063efc7accae4898fa5007236f09da1bf3ae0f.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=128&q=75",
+      "path": "_mirror/optimized/a4374f023a62477d153ea667a67501d1cfa83af4ae47a3bb3d012bf3f24d2f05.bin",
+      "bytes": 6016,
+      "sha256": "d3664254e601e1b48b052a92f2ded35fddfe24f84bfa5c61626f4fc54808924d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=1920&q=75",
+      "path": "_mirror/optimized/53a3210c5f617ccdc3a986f90273c6a784d992e4689c0e10e817c8dcf4f59d6b.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=2048&q=75",
+      "path": "_mirror/optimized/26b3a92bca93c741c88f53fa7bad6657c34e41ac77729bec66df923534abda9a.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=256&q=75",
+      "path": "_mirror/optimized/ad9c368c299bbeceb951f64dfe4d9b5d48db20e0f049dd4230f8ae957f2a6734.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=32&q=75",
+      "path": "_mirror/optimized/a26f0ba3adc6d1c0b431dbbfeff4de15a0bdc0a9346899c0b353a7bf88dc1afc.bin",
+      "bytes": 1038,
+      "sha256": "01d0c879316b384633dff597fc2b825bb06e58023f65da7d98b45f8bd7bd8135",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=384&q=75",
+      "path": "_mirror/optimized/e08ff32398bfc0e6beeec211e8b443dc67bd3c605fc7294347cc13e125b9b842.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=3840&q=75",
+      "path": "_mirror/optimized/84e8cc3dca5545ec09d0d752cc04988ec6ac8bf27d3d4556c7e2fe9f7fdb3edf.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=48&q=75",
+      "path": "_mirror/optimized/e44cd26c12e38bd96682ace30e99e3f5297c93c83ca90a5ab4e2a705da41ec3c.bin",
+      "bytes": 1794,
+      "sha256": "9e861684b0de6716f26e175a32bc4a70c129a3a31c46fea0b9bdf15a4a069963",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=64&q=75",
+      "path": "_mirror/optimized/b444e9b8a008030066f44143187a45293e876ede8ffa1cd6de23ba8655b5088e.bin",
+      "bytes": 2552,
+      "sha256": "8016bf88ff490d0a0bd1ab8ab676e1f18aa7a630270abf52f85a77212c34c847",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=640&q=75",
+      "path": "_mirror/optimized/b3f3b9195cc55c198ee24643d9600d58b280177b762e362b147fa8fa4a6d46d1.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=750&q=75",
+      "path": "_mirror/optimized/f693250feaf1955e1eac7b09d6d24ee22c4275111014206c5d72516342534344.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=828&q=75",
+      "path": "_mirror/optimized/a99253a1558d1a28cfb6e7108028cc1a309fb991c1ab0f1e2c86b066d2b845cb.bin",
+      "bytes": 8566,
+      "sha256": "7f1db112590f8b0018e2f3bd2499c47b5c5586b2c72128ff6eec4c6dbd06ade9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-6.2m7xexpdu64yo.png&w=96&q=75",
+      "path": "_mirror/optimized/78b767683fd5e3dee43dd06ee620ed4fb3585abfede93d32eb3625c6169ec436.bin",
+      "bytes": 4286,
+      "sha256": "66b5b12b52196ef6796b620073602de7b28f9169c0372c6b7e4949ac9662b814",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1080&q=75",
+      "path": "_mirror/optimized/6e065c2ddd1e76443f202df11286a432989ad6ae9661d5055311ae0ff8f05310.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1200&q=75",
+      "path": "_mirror/optimized/c618efd061aefa2609af2f2178c76eb96c92fd451b0d9947bf8694bdd16ea918.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=128&q=75",
+      "path": "_mirror/optimized/c5cfa8c553042c7269bd32d6611569ba41529c308c1c75f4c748576feec9c825.bin",
+      "bytes": 6960,
+      "sha256": "578b49d9f7fcc3ca25ba405cc221b48dbe551988f3cab5b58cb49b9c3833f5e8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=1920&q=75",
+      "path": "_mirror/optimized/9cdfc49f09ecb0544ecf4e69843c86294554d5b2b7f0b7d1da578268a5bc5d6f.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=2048&q=75",
+      "path": "_mirror/optimized/4789ec64eff2f5dd2face5c6682fe51d419e929d5c66e75ce7cbda3816a9f1e6.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=256&q=75",
+      "path": "_mirror/optimized/3871c42259f33f0f1e8b98e963310ce39fc313061f845a28a03f14d078c77c83.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=32&q=75",
+      "path": "_mirror/optimized/30cd1fff60cb12cd16caf9701bb9d79b749e9583cbc783efd6b9f02a84ba74a9.bin",
+      "bytes": 1048,
+      "sha256": "368a1421185ea79c8db7900d05819e7f5eb1e324fabf096b13beb8f5d56c8155",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=384&q=75",
+      "path": "_mirror/optimized/dca7364a39439f0d472b8d78b09767a96cb9376270e17b5abf17394e001a2896.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=3840&q=75",
+      "path": "_mirror/optimized/6e94b52faf137360834eeaf4628c7f38c278d0f4d515703848a7c7530bfdc9fd.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=48&q=75",
+      "path": "_mirror/optimized/e8cd009dc260cab769b19db30c6b3e55e0bfd65dd7e808b78f785b0fa31345bc.bin",
+      "bytes": 1926,
+      "sha256": "b0112c3242633cf1dd7cac5429849bcbcf8df23425723ca0aef52a789f94113e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=64&q=75",
+      "path": "_mirror/optimized/c5fec2812db4b65636009898466fcdf875d4efc6c52d96a6c78ed051e76c8fae.bin",
+      "bytes": 2808,
+      "sha256": "8e9f7018d5ec0c17c663cc667771f104d4d576e73c3d0e1ea79aa22ac8de7d2a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=640&q=75",
+      "path": "_mirror/optimized/dd36fffb172b1bd050a662fb876d14363617afa96b0a673af913db1809f48b48.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=750&q=75",
+      "path": "_mirror/optimized/ca03c476d0117edd2aa68a5605f09d4518aceaaae2c6de1abd13785bff5994e2.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=828&q=75",
+      "path": "_mirror/optimized/0421f413e8e58196bd177cd463e23ab6cfc3d516d559f307ef010fec738dfba4.bin",
+      "bytes": 10810,
+      "sha256": "a0009c314bded21075d3af9d0e01cc741c58cecca1bac5a3b6e42ee5ba7afcb8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-7.2koqpo3wmrqdv.png&w=96&q=75",
+      "path": "_mirror/optimized/4a2e8aedea28b6a2733bf9d13a53a2716cc886357fd380a6ba157e8b3044e5e3.bin",
+      "bytes": 4936,
+      "sha256": "006cf64452c682c970115fa71cc7e4f3d61c1de81f5741a7881307bf920db081",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1080&q=75",
+      "path": "_mirror/optimized/4d5e11aae71f5aa0d8c05aa697cbf1fc6adc45082e7cbff4baa15da65a5c83e5.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1200&q=75",
+      "path": "_mirror/optimized/70d06b93d39194b0f643ae6d6d40767e2ad3e828ff19f22f2f8f329c9c961ed7.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=128&q=75",
+      "path": "_mirror/optimized/91ff86d3605d1a8ae393cdd8d647d3285974b042d07c2b2f4923ee213f99492f.bin",
+      "bytes": 5346,
+      "sha256": "fc7994beb510a84210fb1f1a46e64736a014b8f3216ff54dea862fd69d9d4229",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=1920&q=75",
+      "path": "_mirror/optimized/a759e5a2b765d1e5528eb6a7a855293c29e7e8bb8b109440d3ee35b74205eab5.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=2048&q=75",
+      "path": "_mirror/optimized/305bd694106309a23da402a96d15dfe9ef6c801a805221c5ffbdc9d6f05f2dc0.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=256&q=75",
+      "path": "_mirror/optimized/a77313f88f082f4cdfbc4a37b945086c90f2475b3ae86ffff86c93649f09e1a4.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=32&q=75",
+      "path": "_mirror/optimized/590b3a5a0ed113950ac4a3571e90f3be3e6c68ea8d9f8074afb09462217b7dc1.bin",
+      "bytes": 946,
+      "sha256": "613fbaaf3d98f9199a0f39458bd0e1ffe1dc9dc6923bd7e8d828aba80ce85d7f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=384&q=75",
+      "path": "_mirror/optimized/90b7f728c5f1fd288424eb758d1f974653a2b6e8d0776c93d6e96b263678b211.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=3840&q=75",
+      "path": "_mirror/optimized/650628aff4b1d27957f1a9cea2eee5f800749c6a372fa3bed260ebc1b1608e78.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=48&q=75",
+      "path": "_mirror/optimized/e918b8a1ac3f8d5d2c3ad2ee407e5e0d24214f6dc837c052918ff99ddcfe91ee.bin",
+      "bytes": 1588,
+      "sha256": "068c1dcdeca033b201c5c2668f29c4f25a9b030fe8e3ede0808bb662ce7a07fa",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=64&q=75",
+      "path": "_mirror/optimized/6d3ce740bc49d2ffe92d92fefc29574d6922ef734cc28c1cc00cf57963381fec.bin",
+      "bytes": 2228,
+      "sha256": "524f4817111c9654145b372b9e6c22bee8fc29cd16ea5c45c246f262885f1b6b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=640&q=75",
+      "path": "_mirror/optimized/e3dcbf20b56bc081c8664954085a701522926eb34fb1a98e6a0eb57ff4b7a1fe.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=750&q=75",
+      "path": "_mirror/optimized/b1b82f05d01419118473d423cc2676b9317a77c1deac817149e61e1735dfa130.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=828&q=75",
+      "path": "_mirror/optimized/15baabf080b8e26f2dc1c141ab465be6471d0a15d029b79df8aee109d8f84d93.bin",
+      "bytes": 7824,
+      "sha256": "b608c5ec7adb4df96068fdd51b8c3745f80c87240919dfdb2552434db544bf6e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-8.11ce0jc1uh0jc.png&w=96&q=75",
+      "path": "_mirror/optimized/ff9e8672766e26257a068f1f0d46ac6595e68f55d644785dee7e65466dba62fb.bin",
+      "bytes": 3842,
+      "sha256": "d4828ed9504288e7479426e03e4534cc8dc9eb54be1f2f59a4e3874e916c15ad",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1080&q=75",
+      "path": "_mirror/optimized/e4c168e4e0248fac2e027dc61dfae1c5ead88d8cf12b1233c27dd6f5759969ec.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1200&q=75",
+      "path": "_mirror/optimized/128c15466011738302df06aeeb1fd6db97118d44d43a3cec40cc5af764b96b32.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=128&q=75",
+      "path": "_mirror/optimized/0b2565fe821d9be18adbc2f6c51f3c5551a9c65b10e9159341f50aaf23c43ff3.bin",
+      "bytes": 6624,
+      "sha256": "bb9dd89b5dcd89bf834b97496275d550e487e851df9b712613948a4c0276ae03",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=1920&q=75",
+      "path": "_mirror/optimized/7605235ff076768bc63898aa8a81c4d342da310c663bba43dd668c1dc5b8e8ef.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=2048&q=75",
+      "path": "_mirror/optimized/e7b58655b6136b18c1b389f7d43fbf9bf5e62c332cf3a3d9e5c914c16d14c93f.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=256&q=75",
+      "path": "_mirror/optimized/aaf157d28a41dbce11e7e7ea13ae64cbed2a7360a0d2b80120a5e8bb461ac6e3.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=32&q=75",
+      "path": "_mirror/optimized/e0d7a86c4aa049cfe6d1280b638a4d9d844b4f837e141da1e2f431f3297df81e.bin",
+      "bytes": 1086,
+      "sha256": "6b0851632e05a7de264f5146de57bb07f8fb0b464f13c519095a24b00b7b374f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=384&q=75",
+      "path": "_mirror/optimized/51190ce7def4b1be201f38bbfdf07c65c7a119a9fe51055dc19f9586fd2dab95.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=3840&q=75",
+      "path": "_mirror/optimized/86a4f444589cf556ee9261339f722de65d6999510e282e7734e0633b4d5b48a9.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=48&q=75",
+      "path": "_mirror/optimized/b08015d7ad8cd0664e1e71a8e43b7e52b53cdb8c5f747d6ecb2a048058723348.bin",
+      "bytes": 1910,
+      "sha256": "f9857e720b5d83b494104d5ae7dae1d1d9ba2350ec37d28934e8e44c4d5f5c83",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=64&q=75",
+      "path": "_mirror/optimized/1e34b4025913c848e3c641765f6e5c95270e40971c9ff212429f13571404bc38.bin",
+      "bytes": 2708,
+      "sha256": "36ab2da685cce2ae8777a2b8f3e598c9b735520cfbc6dbea1ecd31d32559eb68",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=640&q=75",
+      "path": "_mirror/optimized/6edfb5d26f34c062ff639acbf084767b488e8a5fe15bfbd7d5372e11fe5562c9.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=750&q=75",
+      "path": "_mirror/optimized/c9f209037ffca94d12cc7001b20a5109b7593555472e9a1749bd4f47b447f956.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=828&q=75",
+      "path": "_mirror/optimized/c856679427329b80dbaf9b75d604cd141f603b5ccbebc2253d48158c0b47b46f.bin",
+      "bytes": 10334,
+      "sha256": "28154c05abd7bf10144b5bec35f68132fc98116b75749e38ccb033f9918afda5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-9.3t81bx9qh435m.png&w=96&q=75",
+      "path": "_mirror/optimized/9a7b9f9e19ee11f1e0c614ae20a1e683323db43376f7d714c9b0a5365c6224e5.bin",
+      "bytes": 4762,
+      "sha256": "08d9919b48235864873b62366b30c08419c73eaeb5e0b59bbffab00b563558e1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo-white-brand.2j1fe5p7zmdh0.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo-white-brand.2j1fe5p7zmdh0.png&w=256&q=75",
+      "path": "_mirror/optimized/84598e2e299f6d0a325054a0d653e1d0337e27720d8076c8086959564bf8b7cf.bin",
+      "bytes": 3068,
+      "sha256": "cd1477fa3f4c6499bb44b90b59aac33ce05ae74f162ff10d87b17d0635a40205",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo-white-brand.2j1fe5p7zmdh0.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo-white-brand.2j1fe5p7zmdh0.png&w=384&q=75",
+      "path": "_mirror/optimized/f420e5cb8db5626e789d574963b08b0015be3d352ef00782f759c1daf78fa2b6.bin",
+      "bytes": 4614,
+      "sha256": "ae3693dd12481cda6e26e217917556ebddecd84ef4f003dbc772bb39b7b50f12",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1080&q=75",
+      "path": "_mirror/optimized/abb4f461444117518341a80484af85c5111144ec054e5cb4db82a58c29c34c90.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1200&q=75",
+      "path": "_mirror/optimized/83fd6918ff1ae8c00fcfa13c1ac06204ed0dce98731a3dc208f5db5dd70e0dc9.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=128&q=75",
+      "path": "_mirror/optimized/f1a84ac2d26b65ce5756a7f677e54e5544d9330a05c55b80c784198abae6cfe3.bin",
+      "bytes": 2604,
+      "sha256": "e4ec9fe383763764dd46cce4e4e22016f3a08b9d9ba3024e012f4327666214f7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=1920&q=75",
+      "path": "_mirror/optimized/8c25b3a16d1181ec2314a97accfb2a3bd734d41b155b8c573f44f1f98d7ae32b.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=2048&q=75",
+      "path": "_mirror/optimized/248a9c19ba8c3cfab00f386128997c9d0a95a5a58f83d37279d0a22402fbd00f.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=256&q=75",
+      "path": "_mirror/optimized/3abca7fa2870b7f6eb683374303f3b0c8f1e6768e6d85d000a4b5e3375544a9b.bin",
+      "bytes": 6364,
+      "sha256": "0774ba90e13c4a02bbdbdca3593f85166fa2f7df066f60cb62005703818096bb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=32&q=75",
+      "path": "_mirror/optimized/50737d7ff1ec5dadd2bf022d94973b6d4674612f0bd0a9272ac10fc43ad2f692.bin",
+      "bytes": 558,
+      "sha256": "a03c424e59e4b71587962c6b22b6f7981931a652cd244143d135128b43f1b4cd",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=384&q=75",
+      "path": "_mirror/optimized/15f849f4f21b796837da5bb9416ce705ad8fd2ca1d63497483b872ec1f0ec677.bin",
+      "bytes": 10618,
+      "sha256": "7619d8f8adfdf472626e4e3ab3bedb64413023f9039bf79b1b744f61395fe9b4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=3840&q=75",
+      "path": "_mirror/optimized/d06bf52c5ef3eacbc88757fb55c172692f509423f69376fdd1967c5ecf76c9dc.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=48&q=75",
+      "path": "_mirror/optimized/18ce245612038d9813c76f7287ba80af2a82b05a3a66fe276e6c56fc2dd3cc9d.bin",
+      "bytes": 830,
+      "sha256": "15ebbc786c8b5a89157e3310ef509f47a7f940ce4d83e66746bf2c18b7e9c04f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=64&q=75",
+      "path": "_mirror/optimized/9e6508f8be62afa44756e2a114f5296d77fd850bc811cb3e50e5fea00f656d74.bin",
+      "bytes": 1288,
+      "sha256": "fd8c9e791405c854bf4f5003a0ac32ac0982ef344e4ddd6ef94c9d29957429fb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=640&q=75",
+      "path": "_mirror/optimized/ead0782e2c302d33c17f18d340a2c7e2606776754e90e6192ca2f2f49ed08f85.bin",
+      "bytes": 19394,
+      "sha256": "b96f909d11d04e5b22313f73f25c2f2cf3922442d8e84fd7fb8707a3b55c8ed0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=750&q=75",
+      "path": "_mirror/optimized/c42a00447d8147452d3eaa83f512fac8d81efc1f90b79f5b1d1e94519202c55c.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=828&q=75",
+      "path": "_mirror/optimized/4b5328d8e3fe69d232ff81878d366cde73700ba418394a4c91d4b356b789ed80.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffervid-logo.3qd6lfl9j27yy.png&w=96&q=75",
+      "path": "_mirror/optimized/11d5fe383e88a60f268e710240480a00e8d0c0c0cb57e673b8208ea271f4ee00.bin",
+      "bytes": 1932,
+      "sha256": "f37e495e864b8393e7c865255441a271fd7035eb4c9cc756374f5985809d8185",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-chart.3-tj6syh5whge.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-chart.3-tj6syh5whge.png&w=384&q=75",
+      "path": "_mirror/optimized/8afe80d3431671495490ace43babdd99d82e7128065fd3d51011aaff36ca5e60.bin",
+      "bytes": 6174,
+      "sha256": "8901b3cf431bd37f7d55af30707e9a4c650de9704b9b89bd6807bebf6a2df286",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-chart.3-tj6syh5whge.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-chart.3-tj6syh5whge.png&w=640&q=75",
+      "path": "_mirror/optimized/9252bfd8ea0e085352718e005e660ccd311fddcbe448e406dd452cab3a1b9973.bin",
+      "bytes": 6174,
+      "sha256": "8901b3cf431bd37f7d55af30707e9a4c650de9704b9b89bd6807bebf6a2df286",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-bag.2f22yhdq89xx_.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-bag.2f22yhdq89xx_.png&w=128&q=75",
+      "path": "_mirror/optimized/62c8a965beabc129c165f544dd8060c7d4143a9371f3bfa514a2554784dbe386.bin",
+      "bytes": 1486,
+      "sha256": "7cdb4969698b4f1c9662558f96c383e0dba21bc149376b4cc63b2c3267078518",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-bag.2f22yhdq89xx_.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-bag.2f22yhdq89xx_.png&w=256&q=75",
+      "path": "_mirror/optimized/c96d6a241d17c16f59b060a1443548a6cccd102a6c8879cbab69df2e2f183bfb.bin",
+      "bytes": 1486,
+      "sha256": "7cdb4969698b4f1c9662558f96c383e0dba21bc149376b4cc63b2c3267078518",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-book.2avc3g0qj_f4t.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-book.2avc3g0qj_f4t.png&w=256&q=75",
+      "path": "_mirror/optimized/1be2d4c13cf4835d9201e0d1cb3fc83483cb3184a7cb33413e1ddfe4e3b223d7.bin",
+      "bytes": 1740,
+      "sha256": "35e531f4629df15fb4c20e97f8ae4e614d220df77a1e56f6ac520be76137c5ce",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-book.2avc3g0qj_f4t.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg-decor-book.2avc3g0qj_f4t.png&w=640&q=75",
+      "path": "_mirror/optimized/ca7fb26fa0e614d7dfdd21750cdc8806dbd30b998e8a5d8a85fe5cedc68aa940.bin",
+      "bytes": 1740,
+      "sha256": "35e531f4629df15fb4c20e97f8ae4e614d220df77a1e56f6ac520be76137c5ce",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.34vzqlxdoycah.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.34vzqlxdoycah.png&w=48&q=75",
+      "path": "_mirror/optimized/0630b57c3a6301ca8e7702a5b9df51e8301eea36aebe36aa11d9c4d6dbce1aa7.bin",
+      "bytes": 850,
+      "sha256": "5d6b87dee3280abb64106579d45e493847a50104d42bb020c6d1656f65ed483b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.34vzqlxdoycah.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.34vzqlxdoycah.png&w=96&q=75",
+      "path": "_mirror/optimized/3c95dd05ce0ec52f116cc599be7ce3aef11b2609bedde20149c74b2b43ca319d.bin",
+      "bytes": 2070,
+      "sha256": "81d23ea4f87fff00f0648addd47970667414e09be0c445dc779e77d8abc4becf",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1080&q=75",
+      "path": "_mirror/optimized/9657f04ab3bc83aa0d63c40dd3c62dcf4e24b816d2728b2cec675ffd37e2f10c.bin",
+      "bytes": 8882,
+      "sha256": "7e92e34c73db8d2c2dd736274c606d0fb789120f5e98ced8b1df1e1e6f7c90d6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1200&q=75",
+      "path": "_mirror/optimized/bd1507b5e1c0aac9d002d908de4bf2cfba755724c8bbad6ca33ddc3b0a811a04.bin",
+      "bytes": 9836,
+      "sha256": "3a4687098c7fabbcbe402e059c4ad15dd525de81e7aedb187ddcdd4c896d259a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=128&q=75",
+      "path": "_mirror/optimized/d19c632eeb1f4b76b00f25f4869590c5b37b08204940a1bbc216068b159b4744.bin",
+      "bytes": 584,
+      "sha256": "3566766a1648097b11fbd3a21010d574ddee147e5a6554b34bd077f672f1764a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=1920&q=75",
+      "path": "_mirror/optimized/a49039211146f05e83636809d705118bbf1cabe8be090dccd90e1c41a5e64958.bin",
+      "bytes": 19858,
+      "sha256": "a2dd251cb08262440c36745585b71884bea71698921e6c287d9a399bfd9bc42c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=2048&q=75",
+      "path": "_mirror/optimized/7026e759cbbe14c08bf6cae10deb3250ffc21ba85afcad281bd8d7f535c9e565.bin",
+      "bytes": 19858,
+      "sha256": "a2dd251cb08262440c36745585b71884bea71698921e6c287d9a399bfd9bc42c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=256&q=75",
+      "path": "_mirror/optimized/e32bdf9bc2f8684ccdddc70a06b91302e84b19c4823459f2e6ac910cf3d5e9d5.bin",
+      "bytes": 1504,
+      "sha256": "85fd8f372afacb358a2d85c1b7e051afece852d4e05c030abb792232a7bb60ad",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=32&q=75",
+      "path": "_mirror/optimized/c3afb17cd6886aff7c5f5744c7ba1fde5ffe67d0fe7eb3aeca6b27dceb7a009b.bin",
+      "bytes": 110,
+      "sha256": "7ad6eff7a9c93401629a6944b6c8dae4026adec74a53b586c2be364eb69b8a9f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=384&q=75",
+      "path": "_mirror/optimized/6c7592451573002980eedd9549c7f28c30cdabf9e88bc0a32f2200aaefda0d17.bin",
+      "bytes": 2628,
+      "sha256": "c92041f647f87b6422285c80d56b658e7bab92a1a86cc311ef1c06a6f39055ba",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=3840&q=75",
+      "path": "_mirror/optimized/e2eb2ee635275b6ddfd9cef7bbbf0ce0fccb934a9ef9a75da08e9d0acb479d67.bin",
+      "bytes": 19858,
+      "sha256": "a2dd251cb08262440c36745585b71884bea71698921e6c287d9a399bfd9bc42c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=48&q=75",
+      "path": "_mirror/optimized/439bba72bae3f413fe0e64dcab67dcd04c546c48a5c26b62f2f2c9a7d74b50fa.bin",
+      "bytes": 188,
+      "sha256": "7edc3388dd44fe282dc8bc33ae0ea61f80d50910372fb4a6bf256974ea6466f6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=64&q=75",
+      "path": "_mirror/optimized/e8401d14c29b57286ee8f43e13417847cb5165529df4704b047619e2b979b779.bin",
+      "bytes": 228,
+      "sha256": "95dce523c3079ba0acbe7ca0a8d4bc77aba1a082a986421e2a0189ce768477a4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=640&q=75",
+      "path": "_mirror/optimized/c7897c03c35267f481ab4d80f2e1d6cfd513def87eeaeb3a6f9daa900d3924f5.bin",
+      "bytes": 4744,
+      "sha256": "63b0374be7861c439d410e59c980e6b8996ee7bf1cf92f466f5868abf4eb4f3d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=750&q=75",
+      "path": "_mirror/optimized/6fa504eba1cc5feb12a9fab7fb4bf315c4fed629c562415adf46feaed588fe55.bin",
+      "bytes": 5894,
+      "sha256": "3103ba0174260fa86d9389aad378479fb043672d2cf507737cb87d81d09e6ed2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=828&q=75",
+      "path": "_mirror/optimized/f706e51b6144710b566a4ae484a47696011a808d8aeca1830c4c36d6394ff660.bin",
+      "bytes": 6684,
+      "sha256": "792515f9e61518f83ad4dfe9b8461e5c6aef58a105dadcb7d10f26cab23dc1ac",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftvc-cover.2cc6ju8k-hvfy.webp&w=96&q=75",
+      "path": "_mirror/optimized/fed6441d5d59a074b7b1c44330a40f2e8c188198d18f8abbc7d63a45c5cfd240.bin",
+      "bytes": 410,
+      "sha256": "1b559a6534cd5246a80988819dec89368e0c7ba2889d282ff7790d94da7ca857",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1080&q=75",
+      "path": "_mirror/optimized/e4252474f72a88b2ccf7d279765c95fb083b10ffcaa3d1ca6ab2b256f87cc13e.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1200&q=75",
+      "path": "_mirror/optimized/68c78f0ed2aae7aa1a9d2ba9a828ca6f80a8ea49a06b1c82faf17ed547f8a1d3.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=128&q=75",
+      "path": "_mirror/optimized/bacbd943c2a47f16e8c913fdd30395e3e2aee50866d4b43269f5054a74bb77b1.bin",
+      "bytes": 2584,
+      "sha256": "81e8f7431fa1a06a4f152345f5a7c40a1974f1046b046eb8809286566dad5efc",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=1920&q=75",
+      "path": "_mirror/optimized/9fc7422333ce5a96d3319c951aae7f9a2b1e0853a5f3e9a79297f1812d5969a4.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=2048&q=75",
+      "path": "_mirror/optimized/95d974f02a38c971c20de10cea29fb8cd9224bce73eec1025d529040a91c563d.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=256&q=75",
+      "path": "_mirror/optimized/0a7722803cee372bd3d78cc100ead71e3b3ec080f5adb9142380707fc395ed51.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=32&q=75",
+      "path": "_mirror/optimized/003082d4deb559c1084e3f489388f8f5e596662f1f9d4c01fbf4a31c810bdc30.bin",
+      "bytes": 438,
+      "sha256": "8e6a0f78005a9b908710698e72bfdf12360aa9dfa117013fd2dd635e195b6fe4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=384&q=75",
+      "path": "_mirror/optimized/78035d513f7c9f9803b17a80d05f0454ebd72c8ba205e3513b391db0db621bed.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=3840&q=75",
+      "path": "_mirror/optimized/f8fa430b43ddbc9f679799e0d3cfa8eecaecaf34f596705aec3dd5ab7e1e632c.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=48&q=75",
+      "path": "_mirror/optimized/01806a9f5fe81a97ee44cd24e89a9f724609174ebd2eb75a990ed791acb1e6d1.bin",
+      "bytes": 646,
+      "sha256": "123efef9a4063941632066b716c822e6a36a5db311c6682808c9ea1f4f5551c7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=64&q=75",
+      "path": "_mirror/optimized/6bbec9e5e8eaf13ddb99d23fd25ce929c0d3c2f353192d9d068f53816b0d03b4.bin",
+      "bytes": 986,
+      "sha256": "fa3bbae78879e1e024e02851690d9b31b0d06e118704a0ac3ec5ad24aa956650",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=640&q=75",
+      "path": "_mirror/optimized/16431433ad2c510429a75854e668d8476c98731cb5ba76f9c0da462d8236fcbe.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=750&q=75",
+      "path": "_mirror/optimized/9cbf6952e5b9f75fac4e53b70f323e4cd08f53758f4a71869f8db3173a6e6f3a.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=828&q=75",
+      "path": "_mirror/optimized/4f3c584f55a39e9a6e3d0f42d81cb9354516edb41f1fbbe15ab474fac0a89566.bin",
+      "bytes": 5020,
+      "sha256": "a7280a1c49dc7754bda982d70270e7d77e159d01c4063ab33e149b3b9c130202",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcommon%2Fbct-notified.webp&w=96&q=75",
+      "path": "_mirror/optimized/92c19dd768540d9d2a21e279818d413acad7bccc7cd5d7f02a175babaa20d90d.bin",
+      "bytes": 1724,
+      "sha256": "e6c8baf9b0534fd1765433cabc290f134e24621be89c55c92e9ddeadaef3488d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1080&q=75",
+      "path": "_mirror/optimized/1bcd71e7ad7171ead515ebf2b6c750320ef1ba5540b57b9946613ba8d6531b15.bin",
+      "bytes": 4032,
+      "sha256": "5ae10648d8173030642b9a68325a0b56d631bb0823b07ec507aaff2b85f564b1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1200&q=75",
+      "path": "_mirror/optimized/c7d6c157163e2cfcd03589793e960ec52a79ffd430e9eb1ef481a9d35145614d.bin",
+      "bytes": 4622,
+      "sha256": "f23aff783adfb51ff7784da42a48b28ef84f8cf6d3a779d405394bd1a38e5030",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=1920&q=75",
+      "path": "_mirror/optimized/cb5c166e01b62aebdc30c81474aa4c26053d0435bd2c076e34312f59e60d03ad.bin",
+      "bytes": 7492,
+      "sha256": "10e4916aeb63b8aac994ab56b218e2f14b2b162a6fc0d2a61bd8b677b9c0d269",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=2048&q=75",
+      "path": "_mirror/optimized/c14107f77354d300a25ff87332a3a6ce6022799fa3e16336fa6993673df4b887.bin",
+      "bytes": 8016,
+      "sha256": "bd9db40de3f0a086d7900f5f7016d618ce1896171de3391108d0e640a9ff9fdb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=256&q=75",
+      "path": "_mirror/optimized/ec3b3203fe7f36069aa2a2452625d8dcf298c6eead26fc98cccada31ecb13cfe.bin",
+      "bytes": 886,
+      "sha256": "bab4512430ec02ff055b5656f2a4c54850cd44876409f0a16b611ad9e725cce1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=384&q=75",
+      "path": "_mirror/optimized/116ba00c0c3e093ca0aad188f918aa078bff99542a152d054a3014e1b6515b47.bin",
+      "bytes": 1336,
+      "sha256": "ec5a8cdf984cfbb309baf2b159aa74878793583164592c575f4b76c7832f9f1c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=3840&q=75",
+      "path": "_mirror/optimized/572e25cfaf69b02ff2116f84e9b896201afd94a059e6544dfe933ae31f2490d2.bin",
+      "bytes": 10376,
+      "sha256": "19bc9ac392c0c0b36283cd29899459d698963b34e853a3fb4556ba7e7f76e546",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=640&q=75",
+      "path": "_mirror/optimized/7615b84536141a8b720805fb1ca95c68ba1051c7dbd3d7a7934fa3fdbe58024f.bin",
+      "bytes": 2238,
+      "sha256": "2b452241da2b3fc6740ab91e8bc2e6944160098d2a8bc84dc3d168706126b655",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=750&q=75",
+      "path": "_mirror/optimized/18b6578cc480729c722118457082ec1f4b24a5d66f73312683eba57c3f3bb0b5.bin",
+      "bytes": 2690,
+      "sha256": "422c16a568caaebd41cd60ad90e5e7ebce34a28ffa204a7aac7e76c38456a08f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fdgnl.webp&w=828&q=75",
+      "path": "_mirror/optimized/96ede5414f6c50404c5f5c7124511c4b2eb7023e334cffcc09146258da2e8fc3.bin",
+      "bytes": 3028,
+      "sha256": "638e8ad95e84a65c0a2178fff0d3d78ef260a428d77451678c939b7a8bf01d17",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1080&q=75",
+      "path": "_mirror/optimized/8b61652cb8c50c1a61cb941b04c9b77a0a01f5e4dca2b8aad4001e5eb4dede06.bin",
+      "bytes": 3666,
+      "sha256": "9fd65bc700be3ebf3eee6466bd1aa47af97aea09f33de2cf15d73d3d3f883750",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1200&q=75",
+      "path": "_mirror/optimized/014003f0713f2bb49e563694dd36eda6efd2d340ae28fb7568384740b5902464.bin",
+      "bytes": 4150,
+      "sha256": "8137d49dead63d4ddc8af67e5b288394cc1a10ae6661301126f62bd9b2a12f7d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=1920&q=75",
+      "path": "_mirror/optimized/656e783bed74430da0218f2cd88da9c52eb8467db12b5e1bf7c93142eb640ff8.bin",
+      "bytes": 6570,
+      "sha256": "66177d794c5f171222de34104ac693b83dfc9fb353787a7c527078cd817569f8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=2048&q=75",
+      "path": "_mirror/optimized/c545924017b1a5aec2ac76afc0ad0b7f82b95159ca041fb47be71cfa473dc553.bin",
+      "bytes": 7312,
+      "sha256": "ae5c0141dd8e894ab2ce97b76e6ae14288b2aa2ae99fce0ad1ff6e77d97d5467",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=256&q=75",
+      "path": "_mirror/optimized/d8aadf88e89cfa72c780e8db31114b34bdddf3564b539aef2bbb021abd31d451.bin",
+      "bytes": 844,
+      "sha256": "d565715e87576bdacfa3aee31f65fb944fc1eb13f445911c99d0d35998a26076",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=384&q=75",
+      "path": "_mirror/optimized/8a69186c58a5032fafabd102711104d6d87b553d8cec6ebc163e1eb3f85ebbb1.bin",
+      "bytes": 1288,
+      "sha256": "0367f5a45177b8cfd4285b5754e71d2421a4e9269641375ffdc74ec498dbce70",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=3840&q=75",
+      "path": "_mirror/optimized/033bc97e1c48c22c05abc8c42784572e914ffdd70dfc4e468b75a7dfdf5ca656.bin",
+      "bytes": 9082,
+      "sha256": "842537f286a495420072535b654ce6a79f6a2bdf8ce332caa486c224127cc0e8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=640&q=75",
+      "path": "_mirror/optimized/a672affeba5a52892ff83a7b3c683d76c7fb51ae1190955855e963a3d16dd77e.bin",
+      "bytes": 2080,
+      "sha256": "c39872905efb4d5e19abda427c865a08c42aa661b0ebfcd2e9e101896f01e110",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=750&q=75",
+      "path": "_mirror/optimized/f5d5d522e525167f444dd7520b0b45428335f8878ed4c6151625f291c8b0fc9c.bin",
+      "bytes": 2494,
+      "sha256": "557fc62860bd6fe387c3733031215e3caf126caf470243d6c203879976814093",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fielts.webp&w=828&q=75",
+      "path": "_mirror/optimized/7ccbdfb45e01c3879c04b61a5d31c30908588c9b87676ade70d8036cc7ade641.bin",
+      "bytes": 2798,
+      "sha256": "68fef3727f35018336ecb5a25d30e45112c5628f40ae5878b1e87151e91a4f92",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1080&q=75",
+      "path": "_mirror/optimized/bed50e3aeeb918ceba6bf8051ff85716c3ea2f59a799d02d5de4f063ad7d7e73.bin",
+      "bytes": 5302,
+      "sha256": "d04697dbbe77cba3a92a4647642942effabf0ad3e95e9b900a209ed1fe5d03b2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1200&q=75",
+      "path": "_mirror/optimized/42051085c200898169cf71d08a397cf4d8a6afc5e1b376acbd7ebff57ccd445c.bin",
+      "bytes": 6138,
+      "sha256": "5332b27a7a493aa9436a7ca97a5756a3e71324fcbceff7c0a0ef10c232f2ed7e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=1920&q=75",
+      "path": "_mirror/optimized/e5b3403da9e02396dc3c2fface6d3632f9fd21caccfc893a558f1a76d62b0bfd.bin",
+      "bytes": 9436,
+      "sha256": "c9566ebf75243e6db0c754d2027be997469283b30f7d62363ede7c982e5d78c9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=2048&q=75",
+      "path": "_mirror/optimized/6f6f73dc94d58681656316968e932e3e4cb86acc25fc147248620b74c153ecff.bin",
+      "bytes": 10206,
+      "sha256": "350d40d91adc6998e0d9bb4862eca150271345d9e67920c88ddddd583fec5bf2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=256&q=75",
+      "path": "_mirror/optimized/a654923fc221712bb6e71b02bf05c1545b120eb6334845613481c008e231db08.bin",
+      "bytes": 1382,
+      "sha256": "d895f969c83e7ab2ba8cdc70710f196db851763bff7d014a52753440578a9032",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=384&q=75",
+      "path": "_mirror/optimized/d287cebbc6b12d41f7d82c3ef7c1446ce5996250cad22e01d55e99dfa90059d3.bin",
+      "bytes": 1932,
+      "sha256": "9558a3fb6ebac803f658afc585b9d0963f408162f71e4429a9a38828340a9ec9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=3840&q=75",
+      "path": "_mirror/optimized/03d917cb648361516838012d796ac5615f014b9878f4f860ff446108bd7bbc75.bin",
+      "bytes": 13190,
+      "sha256": "a87d5633a2bfcef18871adcb7dbd554057bf1d4b6ac56215471412d86062ca37",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=640&q=75",
+      "path": "_mirror/optimized/cedc2d3f73254f99156d23d705484ea716abf5b7cf6dbbdaee82be7be348c721.bin",
+      "bytes": 3148,
+      "sha256": "4d3ca16fcd98efbf2495e37c078d10d1be10550be5f8a9f34b6a6e7094264473",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=750&q=75",
+      "path": "_mirror/optimized/de895f9e30714f0836d58d96600ccb669944d7db049a83d0eb9f2e2ae61bffb2.bin",
+      "bytes": 3612,
+      "sha256": "85e4cee566149b1e2303644e1f00b4d719a23660ff64b2c4e7e8b6cda7b04c18",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fsat.webp&w=828&q=75",
+      "path": "_mirror/optimized/d49fc8fee14a3aef2be4d485b0dc6b6d7991e49f7849043afe9680c1c768c2c3.bin",
+      "bytes": 4132,
+      "sha256": "3d6b2c0803f88364b807b94a1569e0dc1ccfd0d264d67119faaba8c79d329519",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1080&q=75",
+      "path": "_mirror/optimized/68f54d6371ddd982db6e8807ebc8a4480179e6be2d06e75e388a3e6de98403f7.bin",
+      "bytes": 7314,
+      "sha256": "05249f6d3ef07633f933669d46a62e32eb1a64a62d0d30d29de8c68825f0865c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1200&q=75",
+      "path": "_mirror/optimized/2a0e7982bb204238af0da8b06ecf1a94f52d209e2a9a9760e1909fd604836e2b.bin",
+      "bytes": 8466,
+      "sha256": "b526183b851e3f252f2a274db08282b51dba90502bd0bda20dccfac0a8de6b1d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=1920&q=75",
+      "path": "_mirror/optimized/2748583ef8bba3f16e26b072fedd8cd5727a20b603a9d5adaef4fdcb9e306804.bin",
+      "bytes": 12542,
+      "sha256": "51459bee857487449d941178689e5d046e1df768981d0d90f1e1c54115e532ef",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=2048&q=75",
+      "path": "_mirror/optimized/b353fa23264dfa53123145327ddc35d6c260eee6cc407d56a1dc4e2a9b97a759.bin",
+      "bytes": 13484,
+      "sha256": "5cce481405ca09afb9a829968efa8ef2b4fb3d3fd43b93832f6449b6eb57a38b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=256&q=75",
+      "path": "_mirror/optimized/e44f6584380e38e631ae129b105633178bfd326e67d6723e1f97577d07ce9f04.bin",
+      "bytes": 1822,
+      "sha256": "5e6377c96a1df60ac0e7f63a7a5b37611c2221ca67a0b56388f395ea50d07a84",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=384&q=75",
+      "path": "_mirror/optimized/c3bddcfd2fdb2fc1ffb193ddb0d692ecd7e68b2552762010f1b7af036ce7e20b.bin",
+      "bytes": 2772,
+      "sha256": "310c576c4c9e513cda5412adc42797ac3698e555a18182c839d578cc3faef9a6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=3840&q=75",
+      "path": "_mirror/optimized/32b0d8689e7df27ec5a477556605b4727f1d8f33cdafe6019e74c9fd714d9bd3.bin",
+      "bytes": 17728,
+      "sha256": "3c8d329b349523b5ab56b5dbd8207edce739f53442293475c5cbf2ca35198b7b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=640&q=75",
+      "path": "_mirror/optimized/cd0da9fe2b2664c37e8d73b7ee05a6979d22b5e0f17fbeb792c5c7587df3e8bd.bin",
+      "bytes": 4362,
+      "sha256": "c376a4acb7d7af42637fc805740aeeabef5502a9c3cd24fab035aec699f6e3a0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=750&q=75",
+      "path": "_mirror/optimized/b7a7210240966248d3db6a01bcc44813c33558fc4606837b39ade46370d99f12.bin",
+      "bytes": 5114,
+      "sha256": "6fd1aaad9ca831fd181b0af375daabace11ee951262e0ec9dd78189c272514b2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fcovers%2Fbanners%2Fthpt.webp&w=828&q=75",
+      "path": "_mirror/optimized/58a81ba291de96e20bf6d38e335da9a0b0ba380ea1e55e5f6bb437360dd044eb.bin",
+      "bytes": 5504,
+      "sha256": "561adbbbae0ba2159a0d73de50c50f846658593233ddd64851b56f84527ed43c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhigh-school-exam%2Fferd-ai-mascot.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhigh-school-exam%2Fferd-ai-mascot.png&w=48&q=75",
+      "path": "_mirror/optimized/aa0a86ba3527d4a04c09645dc657ed7ace78b4ed7df144da5f50e0b4701b279d.bin",
+      "bytes": 1678,
+      "sha256": "551abc723fa2a327282bb622260d94635ee5ec4e5898ff53fb06f9a340484fa6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhigh-school-exam%2Fferd-ai-mascot.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhigh-school-exam%2Fferd-ai-mascot.png&w=96&q=75",
+      "path": "_mirror/optimized/f472127039913500f5b5f2549e7bd6670f1ae8b780a6eb2eeaad7d7c1b501daa.bin",
+      "bytes": 3756,
+      "sha256": "0b2ccb72da8c5892a9ea9ceadb4a5a7cd86fecba25024750d0f6d35dff0e0ed3",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=32&q=75",
+      "path": "_mirror/optimized/d934f5fb99d0087a91c961b6c6dbc079bb4a52ba5e75435e87662c31a3e7d241.bin",
+      "bytes": 876,
+      "sha256": "47e0b168d99fc38284311cbc09294bbf0a817d6dd1c6dffdb849697e0ebad7ee",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=48&q=75",
+      "path": "_mirror/optimized/231c395361ffdba5d5e2291be784eca7f826dd3ecccc499e11e578faa82fcb67.bin",
+      "bytes": 1392,
+      "sha256": "747c53c07ea085874fab3bdddd56d81b59730770dfdb026058163c840ec60ec0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-10.png&w=96&q=75",
+      "path": "_mirror/optimized/4383c99e6e498b2cfceb0e1fe294f0ec0acb2197810480ae0d3a0f3ac07c24b1.bin",
+      "bytes": 2668,
+      "sha256": "90fa0fa73c2d57a780ca01209f0e69575bd794dcf9b48ceb28c0a92eed282ea0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=32&q=75",
+      "path": "_mirror/optimized/2f8877c8dc5ed1699f44212304eb1728e8bc6bbb2363956c76a329a382055ff4.bin",
+      "bytes": 830,
+      "sha256": "d112895274db2f5dceea33e8fed9e186ca6eb510db22f6d8405ad3d7311c3dda",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=48&q=75",
+      "path": "_mirror/optimized/bae35cd7c4ebbb8196092fcb6c3b89464e2e19eb60c86a928fa4b69c11a9eb63.bin",
+      "bytes": 1280,
+      "sha256": "bda8933fa14e5443f829358b1e148fad4d6913315e8de402bb6f418df5a403f9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-13.png&w=96&q=75",
+      "path": "_mirror/optimized/7ecdbc275433b22b3f895aa39a2cc22c4118962034d650cf84cb54ef2900fd02.bin",
+      "bytes": 2408,
+      "sha256": "3e6e4985a9cc769a0d008182ef3c14bde82f219b97e98e12e0a154af5bb85e2c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=32&q=75",
+      "path": "_mirror/optimized/3154a75757bbbc0f839b796637e3347a1e943262388ea0709ad05391305224af.bin",
+      "bytes": 786,
+      "sha256": "be2a02135c93da8ca2371ae748f301da1b0027d9d930bba69250fde42b557b34",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=48&q=75",
+      "path": "_mirror/optimized/39e0a35e6b6fedc16cee32bea0098a6bc025d9f5d3e41035cd507bb600e770b2.bin",
+      "bytes": 1164,
+      "sha256": "52321d1576e7fe41706fea12a41899fc0ffa401d9ce8097d488f660d8dd7767a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Favatar-minh-anh.png&w=96&q=75",
+      "path": "_mirror/optimized/0f1a0fc0f16a1930b2e7e3b9f0840ca6c541072ebf3dc5387cffea1813fe7359.bin",
+      "bytes": 1970,
+      "sha256": "9d58bba101ccdd3a6a286faccc74fe1f792fe11216be00ad5077287114530ccb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1080&q=75",
+      "path": "_mirror/optimized/ac0ce62ced66e8730c581f8d304321d0b16c0ff86b55c39da69fbbeb6a8396b7.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1200&q=75",
+      "path": "_mirror/optimized/92c819d818cec858281f0fa9d9096802e6a07584ffa1e85d775db81ce3a617e5.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=128&q=75",
+      "path": "_mirror/optimized/2815a56ac4c3ec1b89809792a2709ac803282172f7b9e8c24c1fea0816a3c6ba.bin",
+      "bytes": 2604,
+      "sha256": "e4ec9fe383763764dd46cce4e4e22016f3a08b9d9ba3024e012f4327666214f7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=1920&q=75",
+      "path": "_mirror/optimized/e71acaa725c17481e0c452873f1d513fab00f1c3256c06a3e896f4c7d9d70769.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=2048&q=75",
+      "path": "_mirror/optimized/3439e95307b1a47c485d3278cad0d16565ad3d540bb1ab1bef17ff6deb10d09f.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=256&q=75",
+      "path": "_mirror/optimized/15d7c48ff282dbb0f2aa26be6718f60ec7a182673b928e42f210062aca9b52eb.bin",
+      "bytes": 6364,
+      "sha256": "0774ba90e13c4a02bbdbdca3593f85166fa2f7df066f60cb62005703818096bb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=32&q=75",
+      "path": "_mirror/optimized/01c2c325f58e8164ffd4a6986e7941f431474de68ed36d58ff27fe4e38a96b3e.bin",
+      "bytes": 558,
+      "sha256": "a03c424e59e4b71587962c6b22b6f7981931a652cd244143d135128b43f1b4cd",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=384&q=75",
+      "path": "_mirror/optimized/8d9565868f2d0cf8ba61da5b993a4fc2e256070019e5bca6c2cedcf5f6416326.bin",
+      "bytes": 10618,
+      "sha256": "7619d8f8adfdf472626e4e3ab3bedb64413023f9039bf79b1b744f61395fe9b4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=3840&q=75",
+      "path": "_mirror/optimized/219603d3d87195bed2b3f8533997ec9e669ed38c17c757c01a1fef455f0d7f89.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=48&q=75",
+      "path": "_mirror/optimized/1781c1a30735bb9169a27348c5db030a58953a6ead4b36a67ee40b60df9c7daf.bin",
+      "bytes": 830,
+      "sha256": "15ebbc786c8b5a89157e3310ef509f47a7f940ce4d83e66746bf2c18b7e9c04f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=64&q=75",
+      "path": "_mirror/optimized/233eba4a8e34ca1afe40e4b30e1b088ef6dcd5b54b8ff60192dc50a5358aee3e.bin",
+      "bytes": 1288,
+      "sha256": "fd8c9e791405c854bf4f5003a0ac32ac0982ef344e4ddd6ef94c9d29957429fb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=640&q=75",
+      "path": "_mirror/optimized/140381c4842275b6a1bbeee611061cdedd6019ca15523092a4cf51e3cf9f36ac.bin",
+      "bytes": 19394,
+      "sha256": "b96f909d11d04e5b22313f73f25c2f2cf3922442d8e84fd7fb8707a3b55c8ed0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=750&q=75",
+      "path": "_mirror/optimized/ae9ac44fdf115b4a8272e8f6cbd9f56258a82d4c883fb533a4565b6d37fc479e.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=828&q=75",
+      "path": "_mirror/optimized/00fec753830cd0d7b2f5c3e2e7a343d2f1bb4039cc30d6c63263a55b8b81c71a.bin",
+      "bytes": 15338,
+      "sha256": "7b32d820283f889c7c212e8775bfa517f679cae2c9594dcdc414a2e8f0058eb6",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Fhome%2Ffervid-logo.png&w=96&q=75",
+      "path": "_mirror/optimized/8595ea2f18413e253c8cb18141c685f7280a9115009b562f7b406a37e911ec80.bin",
+      "bytes": 1932,
+      "sha256": "f37e495e864b8393e7c865255441a271fd7035eb4c9cc756374f5985809d8185",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1080&q=75",
+      "path": "_mirror/optimized/a66e47d9e2a068d4f43a8d58f6d97133753cf27b4ee31959670fbdee6054f734.bin",
+      "bytes": 34800,
+      "sha256": "14b64a2bf9169235370e00765c7bf3e83b8361fa82335935f9429f859431675a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1200&q=75",
+      "path": "_mirror/optimized/05e8bf63181cf28971ff94bdf9cf7119cad86e82148b8c2bf25e54d11cc88585.bin",
+      "bytes": 37774,
+      "sha256": "062af6b5f01b2992739cbc1abb3ee07a1c22f8738a52c69609cce80684160539",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=128&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=128&q=75",
+      "path": "_mirror/optimized/d0d5ab5be913a1d1d35af7c772920ddca81ce95c44bffdb5faed20129e3d98eb.bin",
+      "bytes": 1572,
+      "sha256": "f4f8a8ab2e589bb7ae94285c359c898fabec65324722d2916518bcbd9ecf1513",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=1920&q=75",
+      "path": "_mirror/optimized/3e531ac39d8ea0ec45b7f57554b8b6e6d03dea8e4222967b0714c017af974dda.bin",
+      "bytes": 61946,
+      "sha256": "89516e2c5262c68d885191b4f7eefe5d7ba2b19a3b216b7c5a69144ffded7347",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=2048&q=75",
+      "path": "_mirror/optimized/4b8a7aeb9de0e5868c4763331be18fc0d8270d9b71709ad01c639bc567705ec7.bin",
+      "bytes": 66912,
+      "sha256": "3750e996f7e4887a32c503952aa4f2a0a8ae20dd5d7e911e7206694ca411bd94",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=256&q=75",
+      "path": "_mirror/optimized/161a52e4cc147d34eb385f77010fa3aa0a143ed5760ecc80e2cb77e25362dcc6.bin",
+      "bytes": 4718,
+      "sha256": "28a6ae43d3f9ed3efa70e8f3c3efb1d3cacb2341fb66c3297e987ec3e1ead04d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=32&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=32&q=75",
+      "path": "_mirror/optimized/6ada6aaad95c52b3e13cda53fcc1e3ef86e079abf1d2d1a4e4f8007f3d00a412.bin",
+      "bytes": 248,
+      "sha256": "9724b46bd5bd2b7c43ed780dcc70d788f03670cc0f50602d1794cd5e7b4be7f7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=384&q=75",
+      "path": "_mirror/optimized/ff19d6a89e6bc8a187231d19a780e86a016077ff5be1bb554bc3369adf8af3ec.bin",
+      "bytes": 8114,
+      "sha256": "7b60dfc47d2569c6cab61e40368ba2d14a8247a93c4666ba916b251f30fcc75d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=3840&q=75",
+      "path": "_mirror/optimized/044668fccb1d1405fa7d572b19e0d1b8107510fa2a79010cc61c2c61179832b0.bin",
+      "bytes": 76110,
+      "sha256": "865a9c970508c8f2b07aa4411582e9bdd5581532ff7e0ad03c9d642b3a0c165c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=48&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=48&q=75",
+      "path": "_mirror/optimized/49e89ff34cbc29e43725a1f150caf45e524a0576e514c33e92c9781d475a28b3.bin",
+      "bytes": 370,
+      "sha256": "aa872fb2db834f4a862423950e161e0e287b51e2ed7dfe8c05bc4cb23329dd42",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=64&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=64&q=75",
+      "path": "_mirror/optimized/0606b9305a0c2172aaaccfa354f15c219aac68cbfeb01dd0bd02b7ef8788a0a7.bin",
+      "bytes": 556,
+      "sha256": "4248be52e6116ede656f1a7a26d13fbb4b76f4bcc22a0c6fa9e2e0e5d83e86cc",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=640&q=75",
+      "path": "_mirror/optimized/ff188096711f8a0c8c9d3f3700363e7f5f09f186a366929570981a7fcb72ecd7.bin",
+      "bytes": 17354,
+      "sha256": "292c18dd884c30a1f72bef178c62d2bb442182940744a2c6614adbb9f1e0f5a8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=750&q=75",
+      "path": "_mirror/optimized/447698336feff2665d16cd9b2d68749ce4a03ccd97016ca7870ade51ad49b997.bin",
+      "bytes": 21162,
+      "sha256": "c544ecff9076151617750af965507d0ed309470e81742a9f2289fd0a3568df1a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=828&q=75",
+      "path": "_mirror/optimized/62068dd6d7c9ca2598f3a04ec2933a7aba6aa969f0d0799b4c9a3281e13ef094.bin",
+      "bytes": 24044,
+      "sha256": "46e983c1d9142a19c3fef73631ce47295d130c8582a5a734517c94a93501aec2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=96&q=75": {
+      "url": "https://fervid.vn/_next/image?url=%2Fimages%2Flanding-feedback%2Fx-project-desktop.webp&w=96&q=75",
+      "path": "_mirror/optimized/93bdd55fb09dae92dd34ff9f0eca18e200f861d528b7d5fa3b7c1095db5455bb.bin",
+      "bytes": 942,
+      "sha256": "1793e2639f67b09799a2200b886310938e2058708178096d61692e47a18d8176",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1080&q=75",
+      "path": "_mirror/optimized/7be01f794770a1c6588d65ef298ead2c44d4ebdec1bb260d71949d92d9fce671.bin",
+      "bytes": 35154,
+      "sha256": "01e4576d8610245f48372dbcdfdbcd26517440aa44c55913b9055eb8497bb3b7",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1200&q=75",
+      "path": "_mirror/optimized/a253c31e808b23bb07499609b5a1e1e25d4f7a8ca05c8feb16240d0ea98c2419.bin",
+      "bytes": 39710,
+      "sha256": "c621ad5de5e7e1a3501ed4a06d81605780beb739d4f1f1e128f87df0e47d8557",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=1920&q=75",
+      "path": "_mirror/optimized/adceef6a82ffe72ad4ab477b7df5915eb3e6a6baf5a01b8a7bdffe93546f979f.bin",
+      "bytes": 60592,
+      "sha256": "f9b28295468543b21b993e95c8a0080680b0f36caeeebb61c48d7666c4c3f8e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=2048&q=75",
+      "path": "_mirror/optimized/d31ce6c50ad32d80366a39cadd3e0bcdc8b67f3683e0882914e0c8ce0012ceac.bin",
+      "bytes": 65324,
+      "sha256": "0d25f3900adc64b48c79dc02f842a089dd6e2b7e507eaf13810e68fdb4fe72ad",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=256&q=75",
+      "path": "_mirror/optimized/a4cdff61f7abb71c5f45342333cac55f2d055b3bb1793120d83b03c991a9539b.bin",
+      "bytes": 5494,
+      "sha256": "86d72de5dd286e2fc5ef595b784fb2a2170cf277fcf966be49c5972e79e10d00",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=384&q=75",
+      "path": "_mirror/optimized/a065989404deb113015d00f6a3cfda034610f8d388706831f114c59dc04f3d0b.bin",
+      "bytes": 9430,
+      "sha256": "f7983cf3cf8bebdee8d9f3dc892a4fba5795ac1899dbdd7eb9a415dd36bb677c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=3840&q=75",
+      "path": "_mirror/optimized/ebfd4d9a8594cb6b2ec89959d4e551d81df84404008c2566f02b0e22a300faaa.bin",
+      "bytes": 79822,
+      "sha256": "c0d976cd8ec156199e8804dcf6cf7fc6bfed07dd70b725335027b400b4751a76",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=640&q=75",
+      "path": "_mirror/optimized/6e71de93b92109f3ab08c8484a5f6ebed9c6d5fb5b117a62791fa916ecc991d1.bin",
+      "bytes": 18610,
+      "sha256": "b5fc20cb1d5bcd49aa049efaec525d548187923bf0fa495e1ae33f454ade4da4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=750&q=75",
+      "path": "_mirror/optimized/362007293db3b36a5ec32c72c920910785e8b94523363735a8fb7632bbe0c9f3.bin",
+      "bytes": 23356,
+      "sha256": "180681f0accc7dbca5f31dd1d41b0de95a8463fffb45b75fec6636b18193ddbf",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435216_bbee0761.webp&w=828&q=75",
+      "path": "_mirror/optimized/8f263776b9b1483c8e23698612491fee5743dbce33faaa18179628f2192d394d.bin",
+      "bytes": 26428,
+      "sha256": "bf3f28b3d760e48f3ac1be19d75cec17a87fb66f6b8d80cc0e6d0a3e87bc3380",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1080&q=75",
+      "path": "_mirror/optimized/8334b2327adda38d3d0e1fe8f6b8eb94e286a18ec652c789c7481ea82545f21c.bin",
+      "bytes": 28780,
+      "sha256": "3b01fcab5421254ff04fcf253bf9fb45db58dd1806371af6f4c59bfe688878a2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1200&q=75",
+      "path": "_mirror/optimized/762d022912875e61165128d6691adf16eb4e68a421df310ffac0ae86d8c5eee6.bin",
+      "bytes": 32092,
+      "sha256": "ef414e4898f07e3c0d6741f780061dce23794cc999ba0d27aab53e6adf44893c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=1920&q=75",
+      "path": "_mirror/optimized/46a4df8227d35e6382be2640f573f27d355fd1b5cb0d7723c5dacc53d55d9300.bin",
+      "bytes": 49066,
+      "sha256": "6077b1681600441b996e761087ed18b2b0ac9364da047675936796c8a820b831",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=2048&q=75",
+      "path": "_mirror/optimized/cfab4aea28c6355c967c13fb016d7dbe8ba9323c9522b28d5d3d337a86ad23f2.bin",
+      "bytes": 53474,
+      "sha256": "41e61b3279128be548677baca946439e9ef0ef0b47f8c8cb10b8ea590787b564",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=256&q=75",
+      "path": "_mirror/optimized/7a1220c1f47cdeef157588866cfd8ce557906c191629280474cd8957e6657cf1.bin",
+      "bytes": 4730,
+      "sha256": "d310f33357f2458bbdda7133cb1228ac2394a397be266f274410b5af44398856",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=384&q=75",
+      "path": "_mirror/optimized/6491c6715166469c7e0c39be6e0439d715c564702f2d8bf5044f73d2156fe446.bin",
+      "bytes": 7968,
+      "sha256": "10c4d1e953e3d975db3fbeb41a8501b5945096367f515031e930f52d274366ce",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=3840&q=75",
+      "path": "_mirror/optimized/d2e5fe263e464eb7ec2a2886bc26ded3169b6ba9d378a0973b8070496aa3d912.bin",
+      "bytes": 66302,
+      "sha256": "493d812899c1cf8e5fc6ab1a46d54df3a0a302ce05945ed8e545578946626877",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=640&q=75",
+      "path": "_mirror/optimized/0c696239733bd6154d5b46439a62a50ec2abf2c63ee94e9fa98e18053bc5e12d.bin",
+      "bytes": 15878,
+      "sha256": "e8ab118a5e1068b82d698e8bf31a6a56e6a093e87acacd048f1fbed52b6f9148",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=750&q=75",
+      "path": "_mirror/optimized/0b39849ddd52240324e2afb24b756a97b9a938b9c3aeabc62eb828cad07229a2.bin",
+      "bytes": 18870,
+      "sha256": "3a6a6ea50fe365656c86bb01f86b3a1b23b30e568f4365584944a703ed8a9094",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435293_429ebc97.webp&w=828&q=75",
+      "path": "_mirror/optimized/271eab7dcfd449edbc33e2aef88875df017ed4aae94a54879fe6034c18733479.bin",
+      "bytes": 21526,
+      "sha256": "6936822c4140926882a0d568fb0c8c77167e0e7a3b657a595ae90c957b4ae811",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1080&q=75",
+      "path": "_mirror/optimized/38f8ff07f4e519dd6f99126b9dbbaf906ab435811ea77ee498ca62168ce4bedb.bin",
+      "bytes": 37684,
+      "sha256": "bcdcb37dfad4147d930b31a43d37196edfc15ffd7e470a2cd27b256c26d46e54",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1200&q=75",
+      "path": "_mirror/optimized/d26d9f6add398c4c7e862c72b67e7d7572fb0278b922f44b960acfa7f2a75919.bin",
+      "bytes": 42048,
+      "sha256": "b78c38791853b6faf58692900f0b96063afdcc931c22c2ef27083e38680ce466",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=1920&q=75",
+      "path": "_mirror/optimized/203d498c6321875db3b624fdca0ccb230c55c03150781c743e922e13a36463cf.bin",
+      "bytes": 63720,
+      "sha256": "64378326ecb5b6cb81990763f09b9d81a1d62bc835043674baac5e00b5552162",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=2048&q=75",
+      "path": "_mirror/optimized/73d0d73a1e147c9d37837d2e5b6fbe92e100d3550ffda301d03a9c42d0d9f98b.bin",
+      "bytes": 69672,
+      "sha256": "649792bd1a4101508257c3bdb6abd495c8c28ea17c6c75a5db47772174007139",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=256&q=75",
+      "path": "_mirror/optimized/410b546eaca60f229d0d67ce2151e9494a03acd512399cc71b6a7061b76d72dd.bin",
+      "bytes": 5354,
+      "sha256": "e9e77b57cfca08767617c2202761967e2d7717a40ae77b00de6020ae6b760655",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=384&q=75",
+      "path": "_mirror/optimized/99f58fd02f315896efa1e94168338677cc582383158ffc76569d4b06aae935ef.bin",
+      "bytes": 9436,
+      "sha256": "6a23e44bb3858a606183a836b2e82c7abffbd03ed0c21e46d7dc63c08b219adb",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=3840&q=75",
+      "path": "_mirror/optimized/718be4de11f2883c5ea00e7d2bd46334f326de224a221eacd63ab417b5f1a74c.bin",
+      "bytes": 89414,
+      "sha256": "afbefb6bb8271e38c3efdc3cac143fece4142c20c349537a59ee8ce271d1979a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=640&q=75",
+      "path": "_mirror/optimized/a860ea7ec1b0699c67e115e6a23d67ca79862214c79db0c1f5e770b2107ad9d9.bin",
+      "bytes": 20322,
+      "sha256": "796c4df9d627ce8bdc445da98cf896b224989898bf0385c40be329a4e68e8e5a",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=750&q=75",
+      "path": "_mirror/optimized/12b6784da7f6413eda95493e08db0a8c8b8cd7e9576f9da12c5316f91827bd03.bin",
+      "bytes": 24824,
+      "sha256": "26ed402b41ada2f5bdbbe20ef7596858c5676afae2233ed1c0f310f0abbc3f90",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435559_23cd95f5.webp&w=828&q=75",
+      "path": "_mirror/optimized/75a78dbb7e391d20528416a281c3986051afa7867c1232c06f74418e158c1592.bin",
+      "bytes": 28294,
+      "sha256": "9f3fb19e550f8825f6ba85495adee06d94ffdaf0b64bfa4e3c42077c96f6c63b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1080&q=75",
+      "path": "_mirror/optimized/109c8e0c262a2c57aeb97c9ceb084816a2af5db58f450cd091c5f741fc8fe142.bin",
+      "bytes": 27462,
+      "sha256": "e6f09e4ae6b59dbd96b9cf4979a22b2c85321cd9b5b879ad6de04cdc66f84259",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1200&q=75",
+      "path": "_mirror/optimized/4050d4aabaf14664ea4f06d673864df38c7e502850729f220baa00cfbbc48b80.bin",
+      "bytes": 29944,
+      "sha256": "9244c2d747a9ebd8b059e536e67c9b08ed9a2cf26b40bd28ca1187b2ee37ec9d",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=1920&q=75",
+      "path": "_mirror/optimized/fbc68d60407ea11e632526a88d9da41ed0a7a19415dfbd2f70715141e6db8746.bin",
+      "bytes": 48008,
+      "sha256": "0755015a8d7e19c92aa621b781f865437e37bc3f82b12c4558cd430f549f5f2b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=2048&q=75",
+      "path": "_mirror/optimized/7d1bf5ac1180ce0e2770d3799244db944d5607197853d88b77ce4093e7b798cf.bin",
+      "bytes": 49434,
+      "sha256": "59eaa8db228e04d713db64a76ab0aafe1f0b095b3467bb71ed9120cdddd66636",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=256&q=75",
+      "path": "_mirror/optimized/f8f6650fd668258d2a414cb6ab27021b9f44650f4474a9058c9eaf70de429fa2.bin",
+      "bytes": 4378,
+      "sha256": "c33c9fb1e13c2ec14b6039a86994b614f115db9504e33ed63e0fd6ced0eb9e69",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=384&q=75",
+      "path": "_mirror/optimized/9dd808ba8f648f75c4e92b5d4f426857e016bc129e1adc9047a1f0b0483062f5.bin",
+      "bytes": 7552,
+      "sha256": "5fd09e536ddf6ce34aa58f0a3f17b79b05b754c48608e8d9a8e8211763b997a9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=3840&q=75",
+      "path": "_mirror/optimized/0adc87a259a52748ec87537ae5acee51472fc575d08629dc12076168b72fae12.bin",
+      "bytes": 61230,
+      "sha256": "d6f302c6f88b31fa941754103e2f2a4bb90389298e724de18233dc7482d1f04e",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=640&q=75",
+      "path": "_mirror/optimized/1030839c86ed9b5ec1a4155d230c72ef21af88e0b4466b93136fbb8c4756daf6.bin",
+      "bytes": 14670,
+      "sha256": "422d73c2c026ebfe371e2f1991c31160d9c67bc90bc7b31e020155810d8debf9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=750&q=75",
+      "path": "_mirror/optimized/94c83b659783df6f93dd67a787d20d0ab5ca877d12b05f34efe6a24005b4cab0.bin",
+      "bytes": 18208,
+      "sha256": "ac9c3f822eb0ee963f4d5f7f1fc00d16b7e8f23642d3f9650bd9ad87b0e297e0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435639_4776ffc4.webp&w=828&q=75",
+      "path": "_mirror/optimized/758920d1a4d3ae55c4293fea8cff32bb4917124ab02b43830427a41b1a8421b4.bin",
+      "bytes": 20800,
+      "sha256": "0ea9602e00c747a087fc2f3291dfcca22ac4b4077ac1740e5fffcd5caad26c16",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1080&q=75",
+      "path": "_mirror/optimized/4e85e0bfa77cb72eeeed9a2f92a6caeff6abc38d0fb8d0b22edd0dc520587d76.bin",
+      "bytes": 37158,
+      "sha256": "3f964d61777233ef205a51515a30d9bac26d1c2f928c78a01c667822884da5c2",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1200&q=75",
+      "path": "_mirror/optimized/e0961fa256044ac0a37edf07191310662e787cc975d84625a636fcc201324e83.bin",
+      "bytes": 44052,
+      "sha256": "2bf5993c52e69486f21d114cca93fc467cd50ea602be2d4c8e14d9389837f23f",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=1920&q=75",
+      "path": "_mirror/optimized/9f4fece649dcd9d865a369141c5715140ebf7a0a51f7bd9928418470a679ec46.bin",
+      "bytes": 66372,
+      "sha256": "d718ea5a7b184ac607191678efd7ad17d8bbdb02c44b9eed6c939d79f21187fc",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=2048&q=75",
+      "path": "_mirror/optimized/fdf424603c71e60ad232b3fc7f8afabb3f95168539e20e9e0f4c4da7669c8eb9.bin",
+      "bytes": 71984,
+      "sha256": "44466706faac935acaa7f7feb1eccafe573678904ab84630c7240e1e0122b879",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=256&q=75",
+      "path": "_mirror/optimized/a8e651b8f263e4387c5511bdef1e68f36440992c2a9470d0117629359d38599e.bin",
+      "bytes": 4612,
+      "sha256": "b36650c206299d0f323bd4a5870102239e350b237750a49ba51a4e3094fb0dac",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=384&q=75",
+      "path": "_mirror/optimized/86ed7a03d715827636bb5590e621d6c5a36823021a7a80b14f8f48aa7d9f1457.bin",
+      "bytes": 8526,
+      "sha256": "73370dc07277ce1a3716c17d75a3ed79914e9d78a3d004cbdc353958f15e9cf8",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=3840&q=75",
+      "path": "_mirror/optimized/5755ffc8c83e7396d9e2397bd3750346a918a65007270a10e54d6269b17f054b.bin",
+      "bytes": 90176,
+      "sha256": "18cfd305ecb08edfc6739f2ab4866c9209304cc23604f0182a7f942217d54e9b",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=640&q=75",
+      "path": "_mirror/optimized/b9d10aba51cc51acd868f835e9f834309e051dfa2897e575023ac06838a3a9f8.bin",
+      "bytes": 19680,
+      "sha256": "fbbf8f6fa5c9da5c4c7760d516d05c358e034307931ba090e0bee4ec015a0cb9",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=750&q=75",
+      "path": "_mirror/optimized/4432c71deeba0cc943b01754831d6dd857c59cd577c5d91b9ddfadb816e1dfa5.bin",
+      "bytes": 24194,
+      "sha256": "4ca11b872cc0f54a94af8e4c99ae99b8a80ec610050698d963f28893342855b5",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435719_83dff24a.webp&w=828&q=75",
+      "path": "_mirror/optimized/501146e2f55666df8a8f6f59742961ade030c751e38cf0203a8f2347d7d8f29b.bin",
+      "bytes": 27198,
+      "sha256": "818840c57717dd90b0baaf258041e9d7ca949c674dc2c90ca6f5691d4c0dc3f3",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1080&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1080&q=75",
+      "path": "_mirror/optimized/3a812e02a82b14992e8291fc7157f06c19d5622c2770c5bed9f9ab782b9af1e7.bin",
+      "bytes": 27794,
+      "sha256": "267a81b759205c522c4b0b2618cdc83598096e2280ac79c178f6ba1eada577a4",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1200&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1200&q=75",
+      "path": "_mirror/optimized/671b770f538202393b02ece004ce8bd3af677867ef30df9295bf7b944b03db14.bin",
+      "bytes": 31254,
+      "sha256": "0fe3605408eb24232334022e4721614c5caff79bce29d4e07202ef4c3f276613",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1920&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=1920&q=75",
+      "path": "_mirror/optimized/a335ebe6d977063b39affa3536387d658389f42eb3ed95a9cd42e81b1a7c44c4.bin",
+      "bytes": 48112,
+      "sha256": "973a64c6213621a4541f2264bc8892a5e433feeee4cf899fa5c830dafddec91c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=2048&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=2048&q=75",
+      "path": "_mirror/optimized/905066c1319babb75a48fbea24a5e901cdb09ddc7c638c8047eb0278de1bada9.bin",
+      "bytes": 50680,
+      "sha256": "17fbc6009cb1beb7ee308c0dc9e48d3dc79eb84f9084d4d18503ff10d5878e90",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=256&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=256&q=75",
+      "path": "_mirror/optimized/7489a0d4088e591235a82485f50bd1dd71341b3472c93b5787c706b6a5646976.bin",
+      "bytes": 4880,
+      "sha256": "a8183fed7d8e7cb325bc5fb50c04fa10e945b072da1bc42e8c201dd7b2bf2454",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=384&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=384&q=75",
+      "path": "_mirror/optimized/1fcb7249257440239de0ed1bcc4482fe69dbfb01eaea639d68b3f6a4d94f71da.bin",
+      "bytes": 8114,
+      "sha256": "d2fddac3c39c0194bf2f30465a1c2623421fa7359582371e5111c77e5dcd04a1",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=3840&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=3840&q=75",
+      "path": "_mirror/optimized/a017ba4f280e49b98926bd6150a0507b5260968d435d86b93ade54c008bb294e.bin",
+      "bytes": 61764,
+      "sha256": "b29b26e18f1c1809d8fd0a407a129042b17e740b0467725d2b652e38c246fa42",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=640&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=640&q=75",
+      "path": "_mirror/optimized/d6d714cfaa4b1e0373ff38c5769c483f3b37de50cc1d2e003988645867381eb4.bin",
+      "bytes": 15300,
+      "sha256": "6916f4cfe12b5c255b79a953fb92db07515af7ec0268a3f75f7e4c88db4ff8d0",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=750&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=750&q=75",
+      "path": "_mirror/optimized/c574f511e12bdec0d9462d373a04b67e705512f5ac34a9ceb6f11aad46d006f3.bin",
+      "bytes": 18852,
+      "sha256": "7021a5d3fd6d1e0a9899afb4ca0359d0c28b88a6e7c10e558a387b505b94c51c",
+      "content_type": "image/webp"
+    },
+    "/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=828&q=75": {
+      "url": "https://fervid.vn/_next/image?url=https%3A%2F%2Ffervid.vn%2Fuploads%2Ffervid%2Fblogs%2Fblog_1792435805_2566d3a0.webp&w=828&q=75",
+      "path": "_mirror/optimized/acff53763312180e69c94ece67c6dd0de6253ffda7d17e87e904c8148dca544c.bin",
+      "bytes": 20910,
+      "sha256": "7e35549cbce33c474c46c561eeb62e981ea1f27403efaacba49362c6e98624ee",
+      "content_type": "image/webp"
+    },
+    "/_next/static/chunks/05583pm42j0ps.js": {
+      "url": "https://fervid.vn/_next/static/chunks/05583pm42j0ps.js",
+      "path": "_next/static/chunks/05583pm42j0ps.js",
+      "bytes": 660046,
+      "sha256": "e82d4ece7ede181cb5234e33f62ea4100211633624ae195cbb3387e885c64149",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/05gt0xclpup57.js": {
+      "url": "https://fervid.vn/_next/static/chunks/05gt0xclpup57.js",
+      "path": "_next/static/chunks/05gt0xclpup57.js",
+      "bytes": 18687,
+      "sha256": "98b15fc3c8a6aba7868339227761b3b95e9d09b659f9996bb79965ab081792c1",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/0cz1d0mv5g_q7.js": {
+      "url": "https://fervid.vn/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "path": "_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594,
+      "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/0g1vpp42ng7ys.js": {
+      "url": "https://fervid.vn/_next/static/chunks/0g1vpp42ng7ys.js",
+      "path": "_next/static/chunks/0g1vpp42ng7ys.js",
+      "bytes": 1609,
+      "sha256": "950fddc6dc2dff50d9cd50f976a8bfeb7bfd84b892b7101b52a3683723a517e0",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/0kaea-j6pqlfz.js": {
+      "url": "https://fervid.vn/_next/static/chunks/0kaea-j6pqlfz.js",
+      "path": "_next/static/chunks/0kaea-j6pqlfz.js",
+      "bytes": 127263,
+      "sha256": "776fe48ead0a835d2a89438baf416e73e5b23ba4acd25754f17882b84df60e43",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/0n7484kbibtsn.js": {
+      "url": "https://fervid.vn/_next/static/chunks/0n7484kbibtsn.js",
+      "path": "_next/static/chunks/0n7484kbibtsn.js",
+      "bytes": 35689,
+      "sha256": "512b2bb54a31e390f8ae64cf9e485c351be36bf0471e01d8e06d47b977d3593b",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/0x_9qyomipz9i.js": {
+      "url": "https://fervid.vn/_next/static/chunks/0x_9qyomipz9i.js",
+      "path": "_next/static/chunks/0x_9qyomipz9i.js",
+      "bytes": 51461,
+      "sha256": "180fc68413f6f26f7012f0cae9a2e04c03e1e6853e4d35f498c4591bb270c2a4",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1_57ciyb90ngr.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1_57ciyb90ngr.js",
+      "path": "_next/static/chunks/1_57ciyb90ngr.js",
+      "bytes": 45979,
+      "sha256": "8875e4179ff80733d9caa1883dbf323b62b808d5fce67482c220bd3aae399708",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1czneu6kcshpn.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1czneu6kcshpn.js",
+      "path": "_next/static/chunks/1czneu6kcshpn.js",
+      "bytes": 12049,
+      "sha256": "fb57438d2af1eb8256d07239208dfd5e553ee1408441d21999af34046dca0d15",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1ntn7efqc-iiw.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1ntn7efqc-iiw.js",
+      "path": "_next/static/chunks/1ntn7efqc-iiw.js",
+      "bytes": 54763,
+      "sha256": "32e9576b2b87cbc03075cbfde10797120b73b5c6e486723cd9e58a66d99c585d",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1rm737diirj6u.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1rm737diirj6u.js",
+      "path": "_next/static/chunks/1rm737diirj6u.js",
+      "bytes": 27796,
+      "sha256": "0084439ddb5672abfc0766fb49ca5e6b1c088d95ded72931b0df70e46c52b50b",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1v8sy6h-30ypf.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1v8sy6h-30ypf.js",
+      "path": "_next/static/chunks/1v8sy6h-30ypf.js",
+      "bytes": 26484,
+      "sha256": "d6dcee7a3c39d7fdf3c9e4a577fd004e21888b8f1dea6a75d567c4b712385b32",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1wneuaftvq63i.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1wneuaftvq63i.js",
+      "path": "_next/static/chunks/1wneuaftvq63i.js",
+      "bytes": 31949,
+      "sha256": "8a94d045885c45fc4a3697bb108944921f0e76db1b83c835dbbd2ae1b80b7334",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/1ycd5by80-dnr.js": {
+      "url": "https://fervid.vn/_next/static/chunks/1ycd5by80-dnr.js",
+      "path": "_next/static/chunks/1ycd5by80-dnr.js",
+      "bytes": 6558,
+      "sha256": "bcf5020ac0266a80668e75fe1d7c08d3c4bf8c9ca4441496334d15653ccfa126",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/2-8tgfv7419gp.js": {
+      "url": "https://fervid.vn/_next/static/chunks/2-8tgfv7419gp.js",
+      "path": "_next/static/chunks/2-8tgfv7419gp.js",
+      "bytes": 190671,
+      "sha256": "6f10d12873f3ee3ba5ce569dfab16beb4a072f3db3e3a0194c21998e20b23151",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/228oj19jyxe16.js": {
+      "url": "https://fervid.vn/_next/static/chunks/228oj19jyxe16.js",
+      "path": "_next/static/chunks/228oj19jyxe16.js",
+      "bytes": 110029,
+      "sha256": "f7ffb020da15438776b72b6d935e12550ccdef14a4c927d750683748f136587c",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/231shcb7x1x5-.js": {
+      "url": "https://fervid.vn/_next/static/chunks/231shcb7x1x5-.js",
+      "path": "_next/static/chunks/231shcb7x1x5-.js",
+      "bytes": 21329,
+      "sha256": "abdb64e37c2cef48d151ed55066c0f697e213be714414626908611baf68ac764",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/23dl1xcfos8g2.js": {
+      "url": "https://fervid.vn/_next/static/chunks/23dl1xcfos8g2.js",
+      "path": "_next/static/chunks/23dl1xcfos8g2.js",
+      "bytes": 32808,
+      "sha256": "ae5ee7fec9b931f3b3954585111ac03e2abd3dd3e970b27241b3bdbf1d702dfa",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/29lql5mpzx_ps.js": {
+      "url": "https://fervid.vn/_next/static/chunks/29lql5mpzx_ps.js",
+      "path": "_next/static/chunks/29lql5mpzx_ps.js",
+      "bytes": 36809,
+      "sha256": "729907034faf325034241180b5d4267a4b8a88d2ebdbe0131a782bc28d751498",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/2b6kvtx8nahfz.js": {
+      "url": "https://fervid.vn/_next/static/chunks/2b6kvtx8nahfz.js",
+      "path": "_next/static/chunks/2b6kvtx8nahfz.js",
+      "bytes": 71466,
+      "sha256": "0e0ae11e233eede04876e1fe05f6712f72f6674cefda926a6d34de856778eaa0",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/2k13q97clc8w2.css": {
+      "url": "https://fervid.vn/_next/static/chunks/2k13q97clc8w2.css",
+      "path": "_next/static/chunks/2k13q97clc8w2.css",
+      "bytes": 332,
+      "sha256": "0626e784b142af6ce6c7191d1258103018a1ed54ef8be4098d291edc53e85b58",
+      "content_type": "text/css"
+    },
+    "/_next/static/chunks/2o29s0n36__0r.js": {
+      "url": "https://fervid.vn/_next/static/chunks/2o29s0n36__0r.js",
+      "path": "_next/static/chunks/2o29s0n36__0r.js",
+      "bytes": 23719,
+      "sha256": "dfc6d6a9cf59fcfc4c64eb7199bad17e61ad77b2bdecf6eabf5a7ba3a044fbfc",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/2yt4l-p49ex0z.js": {
+      "url": "https://fervid.vn/_next/static/chunks/2yt4l-p49ex0z.js",
+      "path": "_next/static/chunks/2yt4l-p49ex0z.js",
+      "bytes": 31558,
+      "sha256": "cec3b94e79f81ec8f73f37807225671e435f36a9215479a4805a61223b42b6c0",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/329j824l1odqw.js": {
+      "url": "https://fervid.vn/_next/static/chunks/329j824l1odqw.js",
+      "path": "_next/static/chunks/329j824l1odqw.js",
+      "bytes": 226465,
+      "sha256": "c5b84d309312cad694a3f9f11d60e5f871bf795a3b406981e08e9bef57f64d8f",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/3d-0yqad75t4q.js": {
+      "url": "https://fervid.vn/_next/static/chunks/3d-0yqad75t4q.js",
+      "path": "_next/static/chunks/3d-0yqad75t4q.js",
+      "bytes": 16894,
+      "sha256": "bfcb6e4ed084d8b4395891e2ef51919263330ae43eb50cb0e5ccf5820e7738b1",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/3n8thsrszjk7g.js": {
+      "url": "https://fervid.vn/_next/static/chunks/3n8thsrszjk7g.js",
+      "path": "_next/static/chunks/3n8thsrszjk7g.js",
+      "bytes": 19250,
+      "sha256": "90aee9b1d5c158041f18d523e4b10598b92d986321f029dc4dff4c72fc71491b",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/3nc6x0_y5iwnk.js": {
+      "url": "https://fervid.vn/_next/static/chunks/3nc6x0_y5iwnk.js",
+      "path": "_next/static/chunks/3nc6x0_y5iwnk.js",
+      "bytes": 44491,
+      "sha256": "db8151a57f0e61d9b7250ac30ae666c7067912a7268943a7fa0fa65732bd5dd7",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/40_ujqxw2y24q.css": {
+      "url": "https://fervid.vn/_next/static/chunks/40_ujqxw2y24q.css",
+      "path": "_next/static/chunks/40_ujqxw2y24q.css",
+      "bytes": 6281,
+      "sha256": "51f419edd4978ff74d59d9f35771ff817d46be9adc156f9a64b75992b5b08e1c",
+      "content_type": "text/css"
+    },
+    "/_next/static/chunks/454sby_tb0rwv.js": {
+      "url": "https://fervid.vn/_next/static/chunks/454sby_tb0rwv.js",
+      "path": "_next/static/chunks/454sby_tb0rwv.js",
+      "bytes": 77374,
+      "sha256": "77bded13a32cc8513738dcea202aadecf851149ca170be20632e8e28c674c689",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/chunks/turbopack-0nx--f8z8cxwz.js": {
+      "url": "https://fervid.vn/_next/static/chunks/turbopack-0nx--f8z8cxwz.js",
+      "path": "_next/static/chunks/turbopack-0nx--f8z8cxwz.js",
+      "bytes": 10647,
+      "sha256": "8262e50cde7c16c4872418229424b0348fe2e57ab95fbbbd0461c4271ed160a3",
+      "content_type": "text/javascript"
+    },
+    "/_next/static/media/avatar-1.3p-uxtzgziwy5.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-1.3p-uxtzgziwy5.png",
+      "path": "_next/static/media/avatar-1.3p-uxtzgziwy5.png",
+      "bytes": 71872,
+      "sha256": "b837c851117d9f1a00e12ad2094a16d272e97136a15eab7e75f145f48e4c3589",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-10.0k1e8jaycg06r.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-10.0k1e8jaycg06r.png",
+      "path": "_next/static/media/avatar-10.0k1e8jaycg06r.png",
+      "bytes": 79483,
+      "sha256": "067984ca205f8bab659a398563c8c2482ce6c7d21d20aeb039daa128369b2186",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-2.1a5g7vtrypdzj.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-2.1a5g7vtrypdzj.png",
+      "path": "_next/static/media/avatar-2.1a5g7vtrypdzj.png",
+      "bytes": 66238,
+      "sha256": "87413163fe06792dd5c5f70d6728b36e36d5b7548dab636ffcbbc413a6e06f77",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-3.2w0w7g213ujzz.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-3.2w0w7g213ujzz.png",
+      "path": "_next/static/media/avatar-3.2w0w7g213ujzz.png",
+      "bytes": 78600,
+      "sha256": "49e9a774946aa56c21d845929efee8d6a6238580b658e4101dce2313806d196b",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-4.0am5eyy0ofafg.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-4.0am5eyy0ofafg.png",
+      "path": "_next/static/media/avatar-4.0am5eyy0ofafg.png",
+      "bytes": 76018,
+      "sha256": "2044ffd5c3db123615670fa4495eae4c9d37d54a09b6be048d071ca344e7e4f6",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-5.3619fauw8phzr.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-5.3619fauw8phzr.png",
+      "path": "_next/static/media/avatar-5.3619fauw8phzr.png",
+      "bytes": 70012,
+      "sha256": "fc30e1b451fd27567883c00c8a15a2f3d5011ebb263c4282fb3380c04ddbe33c",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-6.2m7xexpdu64yo.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-6.2m7xexpdu64yo.png",
+      "path": "_next/static/media/avatar-6.2m7xexpdu64yo.png",
+      "bytes": 73155,
+      "sha256": "f3c6585e9a12620a740619fa60b98cdee87abc52f569ce99e0c244c890295607",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-7.2koqpo3wmrqdv.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-7.2koqpo3wmrqdv.png",
+      "path": "_next/static/media/avatar-7.2koqpo3wmrqdv.png",
+      "bytes": 83862,
+      "sha256": "027df8055bd77ffc9a0dd0808c08d51070acfcf964c7d588e55f405b4ad9a214",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-8.11ce0jc1uh0jc.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-8.11ce0jc1uh0jc.png",
+      "path": "_next/static/media/avatar-8.11ce0jc1uh0jc.png",
+      "bytes": 74256,
+      "sha256": "69137b68c22e65144bf0f08941f771ed885baba522169f76b8adcc2926b4197b",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/avatar-9.3t81bx9qh435m.png": {
+      "url": "https://fervid.vn/_next/static/media/avatar-9.3t81bx9qh435m.png",
+      "path": "_next/static/media/avatar-9.3t81bx9qh435m.png",
+      "bytes": 85608,
+      "sha256": "fb5322a58ef658a8f20e3c833d5de3150d7bff4d73f24a6b60003fb0009a2f93",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/ferd-explain.3cwy6dkc_ypj4.webp": {
+      "url": "https://fervid.vn/_next/static/media/ferd-explain.3cwy6dkc_ypj4.webp",
+      "path": "_next/static/media/ferd-explain.3cwy6dkc_ypj4.webp",
+      "bytes": 10392,
+      "sha256": "50485a8c42aac9dd3723f2563aaa0c3034ca3dbfac9efdcaf3f55bb3e9aeaab6",
+      "content_type": "image/webp"
+    },
+    "/_next/static/media/fervid-logo-white-brand.2j1fe5p7zmdh0.png": {
+      "url": "https://fervid.vn/_next/static/media/fervid-logo-white-brand.2j1fe5p7zmdh0.png",
+      "path": "_next/static/media/fervid-logo-white-brand.2j1fe5p7zmdh0.png",
+      "bytes": 25804,
+      "sha256": "41d25f047c3645c82a1c243d41a729cea4de6d499925c55dcb7997b5052edcb0",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/fervid-logo.3qd6lfl9j27yy.png": {
+      "url": "https://fervid.vn/_next/static/media/fervid-logo.3qd6lfl9j27yy.png",
+      "path": "_next/static/media/fervid-logo.3qd6lfl9j27yy.png",
+      "bytes": 45956,
+      "sha256": "424c102b10148eb43de9ccd78b4f1a5c292a84e650742160a27bb750e8f4466a",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-background.3es7y8w6y5mhi.webp": {
+      "url": "https://fervid.vn/_next/static/media/hero-background.3es7y8w6y5mhi.webp",
+      "path": "_next/static/media/hero-background.3es7y8w6y5mhi.webp",
+      "bytes": 12004,
+      "sha256": "6fb8976df42c9b0cbf9227c198731b4c0884cadc8777308022def617cf08178d",
+      "content_type": "image/webp"
+    },
+    "/_next/static/media/hero-decor-dgnl-left.0fbqxxrqmcu6b.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-dgnl-left.0fbqxxrqmcu6b.png",
+      "path": "_next/static/media/hero-decor-dgnl-left.0fbqxxrqmcu6b.png",
+      "bytes": 13966,
+      "sha256": "f062746d2f51833cc1806e1a12a51994affd375f668f2370c0cd9f8614bd795c",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-dgnl-right.1b8pdss636pl-.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-dgnl-right.1b8pdss636pl-.png",
+      "path": "_next/static/media/hero-decor-dgnl-right.1b8pdss636pl-.png",
+      "bytes": 20180,
+      "sha256": "76056380b19433a6c38c670b193c8204a065fa99d5696b372fc95eb6fe819ddb",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-ielts-left.2h92iu1j1qwy2.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-ielts-left.2h92iu1j1qwy2.png",
+      "path": "_next/static/media/hero-decor-ielts-left.2h92iu1j1qwy2.png",
+      "bytes": 17131,
+      "sha256": "d6de36634a250dd97c7129accfa43e1d6489a16e01ac7a4902c844dd69b284b8",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-ielts-right.2r6k69hbx0vkw.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-ielts-right.2r6k69hbx0vkw.png",
+      "path": "_next/static/media/hero-decor-ielts-right.2r6k69hbx0vkw.png",
+      "bytes": 11759,
+      "sha256": "f467614b739a4ae1c63ac42d1d08eeb43b8222996c34fab15d78028f7297c883",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-sat-left.0fbqxxrqmcu6b.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-sat-left.0fbqxxrqmcu6b.png",
+      "path": "_next/static/media/hero-decor-sat-left.0fbqxxrqmcu6b.png",
+      "bytes": 13966,
+      "sha256": "f062746d2f51833cc1806e1a12a51994affd375f668f2370c0cd9f8614bd795c",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-sat-right.1b8pdss636pl-.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-sat-right.1b8pdss636pl-.png",
+      "path": "_next/static/media/hero-decor-sat-right.1b8pdss636pl-.png",
+      "bytes": 20180,
+      "sha256": "76056380b19433a6c38c670b193c8204a065fa99d5696b372fc95eb6fe819ddb",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-thpt-left.2r6k69hbx0vkw.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-thpt-left.2r6k69hbx0vkw.png",
+      "path": "_next/static/media/hero-decor-thpt-left.2r6k69hbx0vkw.png",
+      "bytes": 11759,
+      "sha256": "f467614b739a4ae1c63ac42d1d08eeb43b8222996c34fab15d78028f7297c883",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/hero-decor-thpt-right.1b8pdss636pl-.png": {
+      "url": "https://fervid.vn/_next/static/media/hero-decor-thpt-right.1b8pdss636pl-.png",
+      "path": "_next/static/media/hero-decor-thpt-right.1b8pdss636pl-.png",
+      "bytes": 20180,
+      "sha256": "76056380b19433a6c38c670b193c8204a065fa99d5696b372fc95eb6fe819ddb",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/img-chart.3-tj6syh5whge.png": {
+      "url": "https://fervid.vn/_next/static/media/img-chart.3-tj6syh5whge.png",
+      "path": "_next/static/media/img-chart.3-tj6syh5whge.png",
+      "bytes": 24218,
+      "sha256": "118c7db548ae0dbaf59f914838aba1db55df698e75cbba32705fd4b554c9a852",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/img-decor-bag.2f22yhdq89xx_.png": {
+      "url": "https://fervid.vn/_next/static/media/img-decor-bag.2f22yhdq89xx_.png",
+      "path": "_next/static/media/img-decor-bag.2f22yhdq89xx_.png",
+      "bytes": 3383,
+      "sha256": "055caa87ba6cc1704add512c09a1010eb5ec6e37340360bb866a6d6733f13bbf",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/img-decor-book.2avc3g0qj_f4t.png": {
+      "url": "https://fervid.vn/_next/static/media/img-decor-book.2avc3g0qj_f4t.png",
+      "path": "_next/static/media/img-decor-book.2avc3g0qj_f4t.png",
+      "bytes": 3740,
+      "sha256": "af1e3fb54eee65ef54cf9d7b693515c67e4d28cebb85e8302d97e04446028e1f",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/img-dot-grid-2.0ypsso-dltsiy.png": {
+      "url": "https://fervid.vn/_next/static/media/img-dot-grid-2.0ypsso-dltsiy.png",
+      "path": "_next/static/media/img-dot-grid-2.0ypsso-dltsiy.png",
+      "bytes": 18497,
+      "sha256": "96c0c5275cfd2759ed44aaadf632ca88eecaef7b13484669f3195ebdbb0443e9",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/img-dot-grid.0c1fd_g4czwa1.png": {
+      "url": "https://fervid.vn/_next/static/media/img-dot-grid.0c1fd_g4czwa1.png",
+      "path": "_next/static/media/img-dot-grid.0c1fd_g4czwa1.png",
+      "bytes": 7511,
+      "sha256": "0130dc63f2a207bfbb1a41918466de8237b187b96cbe886edac2a94e83ff666d",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/logo.34vzqlxdoycah.png": {
+      "url": "https://fervid.vn/_next/static/media/logo.34vzqlxdoycah.png",
+      "path": "_next/static/media/logo.34vzqlxdoycah.png",
+      "bytes": 6097,
+      "sha256": "444211969cc7b0923374577682bc750be0f720ad676d241e0490e6d852b4ff24",
+      "content_type": "image/png"
+    },
+    "/_next/static/media/tvc-cover.2cc6ju8k-hvfy.webp": {
+      "url": "https://fervid.vn/_next/static/media/tvc-cover.2cc6ju8k-hvfy.webp",
+      "path": "_next/static/media/tvc-cover.2cc6ju8k-hvfy.webp",
+      "bytes": 25256,
+      "sha256": "6c09d719ab03488f3480daae27a22a88e136089d42e1470606f182aea08fde94",
+      "content_type": "image/webp"
+    },
+    "/api/bff/free-grading/state": {
+      "url": "https://fervid.vn/api/bff/free-grading/state",
+      "path": "api/bff/free-grading/state",
+      "bytes": 227,
+      "sha256": "affae248ea236a18e0c6836aa4eac490c88eb12eab7b97919b65171b70ec8e0e",
+      "content_type": "application/json; charset=utf-8"
+    },
+    "/api/bff/me": {
+      "url": "https://fervid.vn/api/bff/me",
+      "path": "api/bff/me",
+      "bytes": 13,
+      "sha256": "ba5f3ea40e95f49bce11942f375ebd3882eb837976eda5c0cb78b9b99ca7b485",
+      "content_type": "application/json; charset=utf-8"
+    },
+    "/api/bff/site-features": {
+      "url": "https://fervid.vn/api/bff/site-features",
+      "path": "api/bff/site-features",
+      "bytes": 61,
+      "sha256": "47942e211e7ce961dc4019bbeb73011c7bf8a758ffbd1985eec4ed548185c4c7",
+      "content_type": "application/json; charset=utf-8"
+    },
+    "/fonts/Onest-Bold.ttf": {
+      "url": "https://fervid.vn/fonts/Onest-Bold.ttf",
+      "path": "fonts/Onest-Bold.ttf",
+      "bytes": 98368,
+      "sha256": "362fc3e3e10487d775f98b1e7679ce50993a597e823d327a980c0820eb41c3b3",
+      "content_type": "font/ttf"
+    },
+    "/fonts/Onest-ExtraBold.ttf": {
+      "url": "https://fervid.vn/fonts/Onest-ExtraBold.ttf",
+      "path": "fonts/Onest-ExtraBold.ttf",
+      "bytes": 98200,
+      "sha256": "3598858cb89fc6cae2be641b402f557cc8ce327f6bd85b3dcf18fa7507cf6181",
+      "content_type": "font/ttf"
+    },
+    "/fonts/Onest-Medium.ttf": {
+      "url": "https://fervid.vn/fonts/Onest-Medium.ttf",
+      "path": "fonts/Onest-Medium.ttf",
+      "bytes": 98360,
+      "sha256": "e0971971b3a98ae195803150bca9622afe01620c9ffd3ee61e2b5c842eebac49",
+      "content_type": "font/ttf"
+    },
+    "/fonts/Onest-Regular.ttf": {
+      "url": "https://fervid.vn/fonts/Onest-Regular.ttf",
+      "path": "fonts/Onest-Regular.ttf",
+      "bytes": 98072,
+      "sha256": "6a34c56030bcb8698ab6137b80a1da14666e5b511d1db902e9b8cf4eec26f247",
+      "content_type": "font/ttf"
+    },
+    "/fonts/Onest-SemiBold.ttf": {
+      "url": "https://fervid.vn/fonts/Onest-SemiBold.ttf",
+      "path": "fonts/Onest-SemiBold.ttf",
+      "bytes": 98364,
+      "sha256": "86d3a2a737b35cb2cf09e061f7299d57b354bf6c373418187a3cb041aafb86cd",
+      "content_type": "font/ttf"
+    },
+    "/icons/ic-arrow-right.svg": {
+      "url": "https://fervid.vn/icons/ic-arrow-right.svg",
+      "path": "icons/ic-arrow-right.svg",
+      "bytes": 306,
+      "sha256": "3528037bd4dda9d55a3383f898092a627ed9f84df95b80dd67ef4e0a6120abe5",
+      "content_type": "image/svg+xml"
+    },
+    "/images/auth-logo.png": {
+      "url": "https://fervid.vn/images/auth-logo.png",
+      "path": "images/auth-logo.png",
+      "bytes": 53127,
+      "sha256": "224c0726641521d22f2000b1fe98901b538502e50c6e321d051885e7ae9b5de5",
+      "content_type": "image/png"
+    },
+    "/images/common/bct-notified.webp": {
+      "url": "https://fervid.vn/images/common/bct-notified.webp",
+      "path": "images/common/bct-notified.webp",
+      "bytes": 6490,
+      "sha256": "99137bb9ef87c9d567747c60f13e3354738468fac56a98025141a649053be0e7",
+      "content_type": "image/webp"
+    },
+    "/images/covers/banners/dgnl.webp": {
+      "url": "https://fervid.vn/images/covers/banners/dgnl.webp",
+      "path": "images/covers/banners/dgnl.webp",
+      "bytes": 11918,
+      "sha256": "6721759b9c44bb52cae338ea07c291f07fab090430f4916a7166a293b57fbb62",
+      "content_type": "image/webp"
+    },
+    "/images/covers/banners/ielts.webp": {
+      "url": "https://fervid.vn/images/covers/banners/ielts.webp",
+      "path": "images/covers/banners/ielts.webp",
+      "bytes": 10588,
+      "sha256": "c937ed412c8af4eaf8cf7e8737307ba7de0b69c561fcff3f2b9d6eaa4be154ab",
+      "content_type": "image/webp"
+    },
+    "/images/covers/banners/sat.webp": {
+      "url": "https://fervid.vn/images/covers/banners/sat.webp",
+      "path": "images/covers/banners/sat.webp",
+      "bytes": 15348,
+      "sha256": "3c5ce0b1a742e51e86f7184b25b7d3ab91e32da534c282c93e53f49ed80bc5ef",
+      "content_type": "image/webp"
+    },
+    "/images/covers/banners/thpt.webp": {
+      "url": "https://fervid.vn/images/covers/banners/thpt.webp",
+      "path": "images/covers/banners/thpt.webp",
+      "bytes": 21220,
+      "sha256": "84cf7243029ba92fd3d44233babaafb0bf4b9ed5ca8a15d19dcd6bc0d5dee98e",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/cong-nghe.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/cong-nghe.webp",
+      "path": "images/covers/subjects/cong-nghe.webp",
+      "bytes": 12084,
+      "sha256": "b12e2a8a0da3c16e3b1072ff7f560aa6f6b29be0a0fd6193d9e739e08aacc48e",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/dia-li.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/dia-li.webp",
+      "path": "images/covers/subjects/dia-li.webp",
+      "bytes": 9356,
+      "sha256": "1621b8c308ad98abe766fa4463065e76d3e89cf7611502dc2029d293f59a914b",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/hoa-hoc.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/hoa-hoc.webp",
+      "path": "images/covers/subjects/hoa-hoc.webp",
+      "bytes": 5898,
+      "sha256": "5863022296299e4a56a1b5a18839ed0f9679de46f39a69ad97a100e7cfc71cfa",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/ktpl.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/ktpl.webp",
+      "path": "images/covers/subjects/ktpl.webp",
+      "bytes": 5178,
+      "sha256": "f38949b214a9e1dbe516dfcc835085963efb70a422675124380653b299cd490f",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/lich-su.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/lich-su.webp",
+      "path": "images/covers/subjects/lich-su.webp",
+      "bytes": 8390,
+      "sha256": "a460710884a485af132f00ab3708e52ffb1f0edf08c13670eba6f9c248f5a313",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/sinh-hoc.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/sinh-hoc.webp",
+      "path": "images/covers/subjects/sinh-hoc.webp",
+      "bytes": 6828,
+      "sha256": "fb26c880247da02bd442caa2bd0bb5df174834120cdb43f3c735b898ebab8f9d",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/tieng-anh.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/tieng-anh.webp",
+      "path": "images/covers/subjects/tieng-anh.webp",
+      "bytes": 9714,
+      "sha256": "61e5bbe7ae985c4d742d47d9cf375c7b43db1aa2a4c3a9c838d47d16e87ce580",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/tin-hoc.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/tin-hoc.webp",
+      "path": "images/covers/subjects/tin-hoc.webp",
+      "bytes": 13510,
+      "sha256": "702345673f4657b8c8af8046222288361131e0e41167c1047eb15a2395de5173",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/toan.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/toan.webp",
+      "path": "images/covers/subjects/toan.webp",
+      "bytes": 14124,
+      "sha256": "dbc3a63173585a638f4a837f937a2ecc092f34a1daf44e1fb3754485e655b365",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/van.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/van.webp",
+      "path": "images/covers/subjects/van.webp",
+      "bytes": 8696,
+      "sha256": "be0ba53236ce2e06b2e37b51955f7ed800afbba557d466a973b04612de839b56",
+      "content_type": "image/webp"
+    },
+    "/images/covers/subjects/vat-li.webp": {
+      "url": "https://fervid.vn/images/covers/subjects/vat-li.webp",
+      "path": "images/covers/subjects/vat-li.webp",
+      "bytes": 7012,
+      "sha256": "5123738e48e2cd158c84f50ce04f7b5d0c4abfbd79dbb206cf46301a088e0ad5",
+      "content_type": "image/webp"
+    },
+    "/images/high-school-exam/ferd-ai-mascot.png": {
+      "url": "https://fervid.vn/images/high-school-exam/ferd-ai-mascot.png",
+      "path": "images/high-school-exam/ferd-ai-mascot.png",
+      "bytes": 25070,
+      "sha256": "ef9c882a1f67b88dd503253ad476e6edb4e4e7b6edce1e72168a876f2255d509",
+      "content_type": "image/png"
+    },
+    "/images/home/avatar-10.png": {
+      "url": "https://fervid.vn/images/home/avatar-10.png",
+      "path": "images/home/avatar-10.png",
+      "bytes": 18846,
+      "sha256": "76b77678a26763e3495b64bd9459624cdcc695ae57a3930a856c5f4e15c60a32",
+      "content_type": "image/png"
+    },
+    "/images/home/avatar-13.png": {
+      "url": "https://fervid.vn/images/home/avatar-13.png",
+      "path": "images/home/avatar-13.png",
+      "bytes": 16875,
+      "sha256": "1f864edc447e9243d92c9fcf5fb36a78674988b9322421fe2475148ef2067797",
+      "content_type": "image/png"
+    },
+    "/images/home/avatar-minh-anh.png": {
+      "url": "https://fervid.vn/images/home/avatar-minh-anh.png",
+      "path": "images/home/avatar-minh-anh.png",
+      "bytes": 14923,
+      "sha256": "0e722510106f1d98a00780ea1f692d6cd4f7449241cc6af86768a0ed436146ef",
+      "content_type": "image/png"
+    },
+    "/images/home/fervid-logo.png": {
+      "url": "https://fervid.vn/images/home/fervid-logo.png",
+      "path": "images/home/fervid-logo.png",
+      "bytes": 45956,
+      "sha256": "424c102b10148eb43de9ccd78b4f1a5c292a84e650742160a27bb750e8f4466a",
+      "content_type": "image/png"
+    },
+    "/images/home/like.svg": {
+      "url": "https://fervid.vn/images/home/like.svg",
+      "path": "images/home/like.svg",
+      "bytes": 870,
+      "sha256": "e48da311fcce1c58c099c9aeb8073782194b1ecca2c88f9068d02c203b02fa55",
+      "content_type": "image/svg+xml"
+    },
+    "/images/home/sparkle.svg": {
+      "url": "https://fervid.vn/images/home/sparkle.svg",
+      "path": "images/home/sparkle.svg",
+      "bytes": 562,
+      "sha256": "627caca2b1941214049dcc94e4debf628f1858b443c1f8010d0111429c4d01d2",
+      "content_type": "image/svg+xml"
+    },
+    "/images/home/star.svg": {
+      "url": "https://fervid.vn/images/home/star.svg",
+      "path": "images/home/star.svg",
+      "bytes": 785,
+      "sha256": "36155fa257515778f67cc0ad9b8240132265013a4c6e4fe9583c6ee051965f54",
+      "content_type": "image/svg+xml"
+    },
+    "/images/landing-feedback/x-project-desktop.webp": {
+      "url": "https://fervid.vn/images/landing-feedback/x-project-desktop.webp",
+      "path": "images/landing-feedback/x-project-desktop.webp",
+      "bytes": 111950,
+      "sha256": "8991348fd5010a1acfab3e7dbd17b721a2d64406a42c401e010001385c4d3539",
+      "content_type": "image/webp"
+    },
+    "/images/not-found/character-default.png": {
+      "url": "https://fervid.vn/images/not-found/character-default.png",
+      "path": "images/not-found/character-default.png",
+      "bytes": 257383,
+      "sha256": "768bdca895f868b8ffc91dee70044bb1d725cedbb0ca05e67a2bbb0cdc85479b",
+      "content_type": "image/png"
+    },
+    "/images/not-found/character-hit.png": {
+      "url": "https://fervid.vn/images/not-found/character-hit.png",
+      "path": "images/not-found/character-hit.png",
+      "bytes": 262213,
+      "sha256": "d168ad89f55a6f655a9937311d5d09319ad1cd86f65c088da032b2be0de29973",
+      "content_type": "image/png"
+    },
+    "/uploads/fervid/blogs/blog_1792435216_bbee0761.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435216_bbee0761.webp",
+      "path": "uploads/fervid/blogs/blog_1792435216_bbee0761.webp",
+      "bytes": 73518,
+      "sha256": "b518249df9930b847159d404cad77b97fa9841cf73511afe5008724a3ad0ab81",
+      "content_type": "image/webp"
+    },
+    "/uploads/fervid/blogs/blog_1792435293_429ebc97.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435293_429ebc97.webp",
+      "path": "uploads/fervid/blogs/blog_1792435293_429ebc97.webp",
+      "bytes": 88938,
+      "sha256": "6f1adda4da3c3a003a8e9ab7e1541568a8a4c7768df45fcc9b7b7f65ce92c424",
+      "content_type": "image/webp"
+    },
+    "/uploads/fervid/blogs/blog_1792435559_23cd95f5.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435559_23cd95f5.webp",
+      "path": "uploads/fervid/blogs/blog_1792435559_23cd95f5.webp",
+      "bytes": 74580,
+      "sha256": "804ebe21a31769fdb378ead031b596d79f26a3cbfe93d125a46bdeb308085b38",
+      "content_type": "image/webp"
+    },
+    "/uploads/fervid/blogs/blog_1792435639_4776ffc4.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435639_4776ffc4.webp",
+      "path": "uploads/fervid/blogs/blog_1792435639_4776ffc4.webp",
+      "bytes": 62250,
+      "sha256": "c13008d742803c1a8c8901e78d91f5ccdf6ceac9a70dd246db359ab2e8543af2",
+      "content_type": "image/webp"
+    },
+    "/uploads/fervid/blogs/blog_1792435719_83dff24a.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435719_83dff24a.webp",
+      "path": "uploads/fervid/blogs/blog_1792435719_83dff24a.webp",
+      "bytes": 151066,
+      "sha256": "8452f23e9fcf8b0e0317360d1de2abfbe32ff79f60a5542dc9d3a9b8ab62eda9",
+      "content_type": "image/webp"
+    },
+    "/uploads/fervid/blogs/blog_1792435805_2566d3a0.webp": {
+      "url": "https://fervid.vn/uploads/fervid/blogs/blog_1792435805_2566d3a0.webp",
+      "path": "uploads/fervid/blogs/blog_1792435805_2566d3a0.webp",
+      "bytes": 75768,
+      "sha256": "f9e418d73abc550d9c463fc28582295daf740733149aa9eb256a605139c505b2",
+      "content_type": "image/webp"
+    }
+  }
+}

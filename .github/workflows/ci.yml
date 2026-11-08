@@ -1,0 +1,41 @@
+name: Quality
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main, 'feat/**', 'fix/**', 'docs/**', 'test/**', 'chore/**']
+permissions:
+  contents: read
+concurrency:
+  group: quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    name: verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      VINASSESS_DEMO: '1'
+      DATABASE_URL: 'mysql://USER:PASSWORD@127.0.0.1:4000/DATABASE?sslaccept=strict&connection_limit=5&connect_timeout=10'
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm run evaluate:rag
+      - run: npm run product:readiness
+      - name: Check workspace JavaScript syntax
+        run: |
+          for file in workspace/*.js; do node --check "$file"; done
+      - run: npm run content
+      - run: npm run db:validate
+      - run: npm run db:generate
+      - run: npm run check:repo

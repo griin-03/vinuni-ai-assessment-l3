@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.bin binary
+# Preserve upstream snapshots/license formatting; review maintained source normally.
+_next/** -whitespace
+vendor/** -whitespace
+fonts/OFL.txt -whitespace

@@ -1,0 +1,43 @@
+{
+  "source_project": "EduTech AI / CogniAssess",
+  "source_commit": "dcdf949a104d6c3869fe99f9f5ee6e5853f7b625",
+  "mode": "selective_port_and_adaptation",
+  "files": [
+    {
+      "path": "src/app/(dashboard)/teacher/courses/create/page.tsx",
+      "sha256": "50871811d986ebc8792c2c31ccacb83636ebed7abb0f6f14f190957459de6332"
+    },
+    {
+      "path": "src/app/(dashboard)/teacher/courses/create/actions.ts",
+      "sha256": "f65c2ed4d3d4a9578913c4febbb5a0a75bbffb9efdc8547ff420df900dbdf168"
+    },
+    {
+      "path": "src/app/(dashboard)/teacher/courses/actions.ts",
+      "sha256": "e9989e1c89e62e4e14c944775e1086e573cbd17e6c855275c5a5a8380bf6f98b"
+    },
+    {
+      "path": "src/lib/question-teacher-support.ts",
+      "sha256": "a02fe103e9168d2203f5ebda1734b240f493df662bcc1620d4f7c40bc21f042d"
+    },
+    {
+      "path": "src/lib/public-exam-data.ts",
+      "sha256": "fffa40b13f55ef8a550b62dd7037dfe2d8530cc60418f6c925e2e180d4263323"
+    },
+    {
+      "path": "src/lib/teacher-exam-scope.ts",
+      "sha256": "ffe2fff40ebda9eb4a077d320793302f79dd4d1123c5973f0cc4f9eb319fd44f"
+    },
+    {
+      "path": "src/app/api/courses/route.ts",
+      "sha256": "be2e24fc4ec8e08fc16688c509c45d3f93fa435dc7eb87cafce74465137d7c05"
+    },
+    {
+      "path": "src/app/(dashboard)/actions/classroom.ts",
+      "sha256": "2ea527527f8ef5c2db7b03ba272fa8240fce6368a37a5697974ded4c647ea921"
+    },
+    {
+      "path": "src/components/exam/exam-room.css",
+      "sha256": "ae9bc1d5124ac110623123d17ad533468498f042584c8910749a485abde0a627"
+    }
+  ]
+}

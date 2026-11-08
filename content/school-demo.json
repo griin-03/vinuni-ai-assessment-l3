@@ -1,0 +1,17 @@
+{
+  "origin": "synthetic_teacher_authored_demo_not_validated_curriculum",
+  "title": "Toán 9 · Phương trình bậc hai",
+  "description": "Bài kiểm tra ngắn để nhận diện lỗi ở biệt thức, số nghiệm và hệ thức Viète. Câu hỏi minh họa do dự án tự soạn; giáo viên cần đối chiếu trước khi sử dụng thật.",
+  "subject": "Toán",
+  "grade": 9,
+  "items": [
+    {"id":"school-q1","prompt":"Phương trình x² − 5x + 6 = 0 có hai nghiệm là cặp số nào?","options":["2 và 3","−2 và −3","1 và 6","−1 và −6"],"correct":0,"explanation":"Ta có x² − 5x + 6 = (x − 2)(x − 3). Vì vậy x = 2 hoặc x = 3.","category":"Toán","objective":"Phân tích thành nhân tử","teacherSupport":{"teachingNotes":"Đối chiếu dấu của nghiệm với dấu trong nhân tử."}},
+    {"id":"school-q2","prompt":"Với phương trình 2x² − 3x + 1 = 0, biệt thức Δ bằng bao nhiêu?","options":["17","1","−1","5"],"correct":1,"explanation":"Δ = b² − 4ac = (−3)² − 4 × 2 × 1 = 9 − 8 = 1.","category":"Toán","objective":"Tính biệt thức delta","teacherSupport":{"teachingNotes":"Lỗi thường gặp: lấy b = 3 hoặc bỏ bình phương dấu âm."}},
+    {"id":"school-q3","prompt":"Một phương trình bậc hai có Δ < 0. Kết luận nào đúng về nghiệm thực?","options":["Có hai nghiệm phân biệt","Có một nghiệm kép","Không có nghiệm thực","Luôn có nghiệm x = 0"],"correct":2,"explanation":"Khi Δ < 0, phương trình bậc hai không có nghiệm thực.","category":"Toán","objective":"Biện luận số nghiệm","teacherSupport":{"teachingNotes":"Phân biệt không có nghiệm thực với không có nghiệm trong mọi tập số."}},
+    {"id":"school-q4","prompt":"Nếu x₁, x₂ là nghiệm của x² − 7x + 10 = 0 thì x₁ + x₂ bằng bao nhiêu?","options":["−7","10","−10","7"],"correct":3,"explanation":"Theo hệ thức Viète, x₁ + x₂ = −b/a = −(−7)/1 = 7.","category":"Toán","objective":"Hệ thức Viète","teacherSupport":{"teachingNotes":"Lỗi hay gặp: quên dấu trừ trong công thức tổng nghiệm."}}
+  ],
+  "source": {
+    "title": "Học liệu minh họa · Phương trình bậc hai",
+    "content": "# Phương trình bậc hai một ẩn\n\nPhương trình bậc hai một ẩn có dạng ax² + bx + c = 0 với a khác 0. Biệt thức của phương trình là Δ = b² − 4ac.\n\nNếu Δ > 0 thì phương trình có hai nghiệm thực phân biệt. Nếu Δ = 0 thì phương trình có nghiệm kép x = −b/(2a). Nếu Δ < 0 thì phương trình không có nghiệm thực.\n\nKhi phương trình có hai nghiệm x₁ và x₂, hệ thức Viète cho biết x₁ + x₂ = −b/a và x₁x₂ = c/a. Cần chú ý dấu của các hệ số khi thay vào công thức.\n\nTài liệu tổng hợp do dự án tự soạn để thử chức năng. Không phải bản trích từ sách giáo khoa hay tài liệu được Bộ Giáo dục và Đào tạo thẩm định. Giáo viên cần kiểm tra phạm vi chương trình đang giảng dạy trước khi giao bài."
+  }
+}

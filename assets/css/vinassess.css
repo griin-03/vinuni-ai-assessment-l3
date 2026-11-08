@@ -1,0 +1,25 @@
+/* Corporate content refinements and ocean colors; retain the original layout. */
+#solutions, #home-cta-title, #home-latest-posts-title { scroll-margin-top: 110px; }
+[class*="testimonial"] .mui-1lekzkb, .mui-1lxd9id { display: none !important; }
+.mui-1qhai59 { letter-spacing: .05em; }
+time.mui-et5e9k { display: none; }
+header a { white-space: nowrap; }
+header a.MuiLink-root.active[href^="#"] { background: transparent !important; color: #263642 !important; font-weight: 500 !important; }
+header a.MuiLink-root.active[href="#home-cta-title"] { background: #0077b6 !important; color: white !important; }
+/* Recolor only the original monochrome decorative images. */
+img[src*="img-decor-book"], img[src*="img-decor-bag"], img[src*="img-chart"] { filter: hue-rotate(205deg); }
+/* Keep the original dot pattern as an alpha mask, tinted ocean blue. */
+.mui-cghw64 { background-image: none !important; position: relative; isolation: isolate; }
+.mui-cghw64::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: #33a9d6;
+  -webkit-mask: url('/_next/static/media/img-dot-grid-2.0ypsso-dltsiy.png') no-repeat 0 0 / cover;
+  mask: url('/_next/static/media/img-dot-grid-2.0ypsso-dltsiy.png') no-repeat 0 0 / cover;
+}
+@media (max-width: 599px) {
+  #landing-hero-title + div { overflow-wrap: anywhere; }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "vinassess",
+  "private": true,
+  "scripts": {
+    "start": "python3 scripts/serve.py",
+    "dev": "python3 scripts/serve.py",
+    "test": "python3 -m unittest discover -s tests -v",
+    "evaluate:rag": "python3 scripts/evaluate_rag.py",
+    "product:readiness": "python3 scripts/product_readiness.py",
+    "content": "python3 scripts/build-brand-assets.py && node scripts/build-landing.mjs",
+    "db:generate": "node scripts/prisma-cli.mjs generate",
+    "db:validate": "node scripts/prisma-cli.mjs validate",
+    "db:check": "node scripts/check-tidb.mjs",
+    "check:repo": "python3 scripts/check-repo.py"
+  },
+  "devDependencies": {
+    "acorn": "^8.19.0",
+    "prisma": "6.19.3"
+  },
+  "dependencies": {
+    "@prisma/client": "6.19.3"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "overrides": {
+    "@prisma/config": {
+      "deepmerge-ts": "8.0.2"
+    }
+  },
+  "description": "Source-grounded assessment and exam workflow for secondary education",
+  "version": "0.1.0"
+}

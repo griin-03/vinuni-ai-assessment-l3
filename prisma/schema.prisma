@@ -1,0 +1,165 @@
+// School MVP target schema. Runtime cutover/data migration is a separate step.
+// Prisma 6, MySQL connector for TiDB; do not apply blindly to the system database.
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Group {
+  id    Int    @id @default(autoincrement())
+  name  String @unique @db.VarChar(160)
+  users User[]
+
+  @@map("departments")
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  name         String   @db.VarChar(160)
+  email        String   @unique @db.VarChar(200)
+  password     String   @db.VarChar(255)
+  role         String   @db.VarChar(24)
+  departmentId Int?     @map("department_id")
+  department   Group?   @relation(fields: [departmentId], references: [id])
+  title        String   @default("") @db.VarChar(160)
+  status       String   @default("active") @db.VarChar(24)
+  createdAt    String   @map("created_at") @db.VarChar(40)
+  papers       Paper[]
+  releases     Release[]
+  rooms        Exam[]
+  assignments  Assignment[]
+  attempts     Attempt[]
+  sessions     Session[]
+
+  @@index([departmentId])
+  @@map("users")
+}
+
+model Session {
+  token   String @id @db.VarChar(64)
+  userId  Int    @map("user_id")
+  user    User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  csrf    String @db.VarChar(64)
+  expires Float
+
+  @@index([userId])
+  @@map("sessions")
+}
+
+model Question {
+  id             Int     @id @default(autoincrement())
+  prompt         String  @db.Text
+  options        Json
+  correct        Int
+  explanation    String  @db.Text
+  category       String  @db.VarChar(80)
+  createdAt      String  @map("created_at") @db.VarChar(40)
+  sourceAiItemId Int?    @unique @map("source_ai_item_id")
+  provenance     Json
+
+  @@map("questions")
+}
+
+model Paper {
+  id          Int      @id @default(autoincrement())
+  ownerId     Int      @map("owner_id")
+  owner       User     @relation(fields: [ownerId], references: [id])
+  title       String   @db.VarChar(160)
+  description String   @db.Text
+  subject     String   @db.VarChar(80)
+  grade       Int
+  items       Json
+  revision    Int      @default(0)
+  status      String   @default("draft") @db.VarChar(24)
+  createdAt   String   @map("created_at") @db.VarChar(40)
+  updatedAt   String   @map("updated_at") @db.VarChar(40)
+  release     Release?
+
+  @@index([ownerId])
+  @@map("assessment_papers")
+}
+
+model Release {
+  id          Int    @id @default(autoincrement())
+  paperId     Int    @unique @map("paper_id")
+  paper       Paper  @relation(fields: [paperId], references: [id])
+  ownerId     Int    @map("owner_id")
+  owner       User   @relation(fields: [ownerId], references: [id])
+  title       String @db.VarChar(160)
+  description String @db.Text
+  subject     String @db.VarChar(80)
+  grade       Int
+  items       Json
+  contentHash String @map("content_hash") @db.VarChar(64)
+  createdAt   String @map("created_at") @db.VarChar(40)
+  rooms       Exam[]
+
+  @@index([ownerId])
+  @@map("assessment_releases")
+}
+
+model Exam {
+  id           Int      @id @default(autoincrement())
+  title        String   @db.VarChar(160)
+  description  String   @db.Text
+  questionIds  Json     @map("question_ids")
+  duration     Int
+  passScore    Int      @map("pass_score")
+  maxAttempts  Int      @default(1) @map("max_attempts")
+  due          String   @db.VarChar(40)
+  status       String   @default("draft") @db.VarChar(24)
+  createdAt    String   @map("created_at") @db.VarChar(40)
+  releaseId    Int?     @map("release_id")
+  release      Release? @relation(fields: [releaseId], references: [id])
+  ownerId      Int?     @map("owner_id")
+  owner        User?    @relation(fields: [ownerId], references: [id])
+  startsAt     Float    @default(0) @map("starts_at")
+  resultPolicy String   @default("after_close") @map("result_policy") @db.VarChar(24)
+  requestKey   String?  @map("request_key") @db.VarChar(80)
+  requestHash  String?  @map("request_hash") @db.VarChar(64)
+  assignments  Assignment[]
+  attempts     Attempt[]
+
+  @@unique([ownerId, requestKey])
+  @@index([releaseId])
+  @@map("exams")
+}
+
+model Assignment {
+  examId Int  @map("exam_id")
+  exam   Exam @relation(fields: [examId], references: [id])
+  userId Int  @map("user_id")
+  user   User @relation(fields: [userId], references: [id])
+
+  @@id([examId, userId])
+  @@index([userId])
+  @@map("exam_assignments")
+}
+
+model Attempt {
+  id                Int     @id @default(autoincrement())
+  examId            Int     @map("exam_id")
+  exam              Exam    @relation(fields: [examId], references: [id])
+  userId            Int     @map("user_id")
+  user              User    @relation(fields: [userId], references: [id])
+  started           Float
+  deadline          Float
+  answers           Json
+  questions         Json
+  submittedAt       String? @map("submitted_at") @db.VarChar(40)
+  score             Int?
+  passed            Boolean?
+  revision          Int     @default(0)
+  passScoreSnapshot Int?    @map("pass_score_snapshot")
+  titleSnapshot     String? @map("title_snapshot") @db.VarChar(160)
+  submissionReason  String? @map("submission_reason") @db.VarChar(24)
+
+  @@index([examId, userId])
+  @@index([userId])
+  @@index([deadline])
+  @@map("attempts")
+}

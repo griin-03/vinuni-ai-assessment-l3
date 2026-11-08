@@ -1,0 +1,50 @@
+# Credentials and runtime data
+.env
+.env.*
+!.env.example
+.vinassess/
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+
+# Dependencies and local tooling
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage/
+htmlcov/
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+
+# Local snapshots, infrastructure reports and private evidence
+backups/
+reference/
+docs/operations/vps-capacity-*.md
+docs/operations/qwen-removal-*.md
+evidence/private/
+evidence/raw/
+evaluations/reports/
+scripts/mirror_fervid.py
+# Historical research superseded by the school MVP
+docs/research/enterprise-core.md
+cdn-cgi/
+icon.svg
+uploads/website_ui/
+
+# Generated editor artifacts
+dist/
+build/
