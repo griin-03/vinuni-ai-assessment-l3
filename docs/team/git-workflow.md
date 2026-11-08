@@ -4,7 +4,7 @@ Theo yêu cầu của Tùng: Ân, Lý và Tuấn làm trên nhánh riêng, mở 
 
 ## Một PR từ đầu đến cuối
 
-Mỗi người cần tài khoản GitHub riêng và quyền Write do Tùng cấp riêng sau khi xác nhận đúng username. Bản phân công không tự cấp quyền repo. Token của Tùng không được gửi cho thành viên.
+Theo yêu cầu mới nhất: **Tùng tự mời thành viên sau khi đọc và duyệt bản phân công; chưa mời tài khoản nào trong lần khởi tạo này.** Mỗi người cần tài khoản GitHub riêng và quyền Write do Tùng cấp riêng sau khi xác nhận đúng username. Bản phân công không tự cấp quyền repo. Token của Tùng không được gửi cho thành viên.
 
 ```sh
 git switch main
@@ -40,6 +40,6 @@ Góp ý cụ thể trên dòng/đoạn liên quan, phân biệt lỗi bắt bu�
 
 `.github/CODEOWNERS` đề nghị review từ `@griin-03` cho mọi file. Workflow **Quality / verify** chạy kiểm tra trên GitHub-hosted runner, không deploy và không dùng secret VPS/DB/model. Trạng thái bảo vệ nhánh thực tế được ghi trong [báo cáo xác minh](../testing/verification.md), không suy từ việc có file CODEOWNERS.
 
-Cấu hình mong muốn: PR bắt buộc, một approval từ code owner, thu hồi approval khi có commit mới, giải quyết thảo luận, CI `verify` đạt, cấm force-push/xóa main. Tùng là admin và giữ ngoại lệ cho khởi tạo/khắc phục khẩn cấp; mọi lần dùng ngoại lệ phải có lý do và review sau đó. Thành viên chỉ cần quyền Write, không cần Admin/Maintain.
+**Đã bật và đọc lại qua GitHub API ngày 08/11/2026:** PR bắt buộc, một approval từ code owner, thu hồi approval khi có commit mới, giải quyết thảo luận, CI `verify` đạt, cấm force-push/xóa main. Tùng là admin và giữ ngoại lệ cho khởi tạo/khắc phục khẩn cấp; mọi lần dùng ngoại lệ phải có lý do và review sau đó. Thành viên chỉ cần quyền Write, không cần Admin/Maintain.
 
-GitHub có thể yêu cầu gói trả phí cho bảo vệ nhánh ở repo private. Nếu API không cho cấu hình, quy trình PR và CI vẫn dùng được nhưng **quy tắc không push main chỉ là quy ước**; cần Tùng chọn gói hỗ trợ hoặc mô hình fork/quyền truy cập phù hợp để cưỡng chế. Không tự đổi repo thành public, mua gói hoặc mời tài khoản khi chưa có username được xác nhận.
+Repo hiện giữ **private**, bảo vệ `main` đã được API xác nhận (`protected: true`). Không thay gói, đổi public hay mời tài khoản. CODEOWNERS chỉ định Tùng; bảo vệ nhánh mới là lớp bắt buộc review với thành viên Write. Chỉ Tùng quản lý việc cấp quyền và ngoại lệ admin.

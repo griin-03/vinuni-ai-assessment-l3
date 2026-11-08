@@ -21,4 +21,6 @@ Chưa đánh giá LLM, chưa đo user thật/impact, chưa kiểm tải đồng 
 
 ## GitHub và quy trình review
 
-Đang xác minh lần push đầu, CI và API bảo vệ nhánh; phần này sẽ ghi trạng thái thực tế sau khi repo có `main`. `.github/CODEOWNERS` chỉ định `@griin-03`; không coi riêng file đó là bảo vệ nhánh đã được cưỡng chế.
+Đã push bản khởi tạo `6b7938e` lên repo private. GitHub API bật protection HTTP 200 và đọc lại `protected: true`: PR bắt buộc, một approval từ code owner `@griin-03`, dismiss stale review, CI `verify` với nhánh cập nhật, giải quyết thảo luận, cấm force-push/xóa main. Tùng giữ ngoại lệ admin; bản bootstrap và cập nhật xác minh dùng ngoại lệ này. Không mời collaborator; Tùng tự mời sau khi duyệt kế hoạch.
+
+**GitHub CI: SUCCESS**, job `verify`, [run 42478655721](https://github.com/griin-03/vinuni-ai-assessment-l3/actions/runs/42478655721) cho bản khởi tạo `6b7938e`; đã đọc kết luận từng step qua API. Chạy trên Ubuntu/Node 22/Python 3.12, gồm cài dependency, 30 test, development eval, readiness, JS syntax, dựng landing, Prisma validate/generate bằng placeholder và kiểm repo. Không dùng secret DB/VPS/AI hoặc deploy. Không coi riêng CODEOWNERS là bảo vệ nhánh đã bật.
